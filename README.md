@@ -33,6 +33,7 @@ The dataset includes:
   - Recruiter Decision  
 
 📁 **Dataset URL**: AI-Powered Resume Screening Dataset (2025)
+https://www.kaggle.com/datasets/mdtalhask/ai-powered-resume-screening-dataset-2025 
 
 ---
 
