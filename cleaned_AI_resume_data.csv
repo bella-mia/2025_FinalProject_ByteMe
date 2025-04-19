@@ -1,0 +1,1001 @@
+Skills,Experience (Years),Education,Certifications,Job Role,Recruiter Decision,Salary Expectation ($),Projects Count,AI Score (0-100)
+"TensorFlow, NLP, Pytorch",10,1,,AI Researcher,1,104895,8,100
+"Deep Learning, Machine Learning, Python, SQL",10,3,Google ML,Data Scientist,1,113002,1,100
+"Ethical Hacking, Cybersecurity, Linux",1,3,Deep Learning Specialization,Cybersecurity Analyst,1,71766,7,70
+"Python, Pytorch, TensorFlow",7,2,AWS Certified,AI Researcher,1,46848,0,95
+"SQL, React, Java",4,5,,Software Engineer,1,87441,9,100
+"Cybersecurity, Networking, Linux, Ethical Hacking",10,2,Google ML,Cybersecurity Analyst,1,47957,5,100
+"Networking, Cybersecurity, Ethical Hacking",4,4,AWS Certified,Cybersecurity Analyst,1,66208,9,100
+"TensorFlow, Pytorch, NLP",3,4,AWS Certified,AI Researcher,1,103006,7,90
+"Networking, Ethical Hacking",7,3,Deep Learning Specialization,Cybersecurity Analyst,1,92270,3,100
+"Python, TensorFlow, Pytorch, NLP",0,4,AWS Certified,AI Researcher,0,60579,1,35
+"SQL, Java, C++",1,5,Deep Learning Specialization,Software Engineer,1,88945,7,70
+"Cybersecurity, Ethical Hacking, Networking",0,3,Google ML,Cybersecurity Analyst,0,62708,5,50
+"Cybersecurity, Networking",0,4,Deep Learning Specialization,Cybersecurity Analyst,1,42077,9,65
+"SQL, C++, Java",4,1,Deep Learning Specialization,Software Engineer,1,50410,10,100
+"Pytorch, NLP",0,4,Deep Learning Specialization,AI Researcher,0,96555,5,45
+"Cybersecurity, Networking",1,5,Google ML,Cybersecurity Analyst,0,51388,6,60
+"SQL, Python",10,5,,Data Scientist,1,115364,2,100
+"Linux, Networking, Cybersecurity, Ethical Hacking",3,2,,Cybersecurity Analyst,1,66379,6,80
+"SQL, Python, Deep Learning",3,3,,Data Scientist,1,112439,10,95
+"Machine Learning, SQL, Python",10,2,Deep Learning Specialization,Data Scientist,1,53167,9,100
+"SQL, Java, C++, React",5,1,,Software Engineer,1,57546,4,90
+"Python, TensorFlow, Pytorch, NLP",6,1,Google ML,AI Researcher,1,106352,10,100
+"Machine Learning, Deep Learning, SQL",4,3,AWS Certified,Data Scientist,1,107045,8,100
+"TensorFlow, Pytorch, NLP, Python",8,3,Deep Learning Specialization,AI Researcher,1,94384,0,100
+"Pytorch, TensorFlow, NLP, Python",0,2,Deep Learning Specialization,AI Researcher,1,91064,10,80
+"Python, NLP",7,2,Deep Learning Specialization,AI Researcher,1,68447,10,100
+"Ethical Hacking, Cybersecurity",3,1,Deep Learning Specialization,Cybersecurity Analyst,0,76203,2,60
+"Pytorch, NLP",1,4,,AI Researcher,0,41731,5,45
+"NLP, Pytorch, Python",10,2,Google ML,AI Researcher,1,119307,2,100
+"SQL, Python",10,2,AWS Certified,Data Scientist,1,59926,4,100
+"Python, SQL",4,5,,Data Scientist,1,84679,10,100
+"Ethical Hacking, Networking, Linux",1,1,,Cybersecurity Analyst,1,58606,10,75
+"Deep Learning, Machine Learning, SQL, Python",8,4,AWS Certified,Data Scientist,1,51283,4,100
+"TensorFlow, Python, Pytorch",9,1,Deep Learning Specialization,AI Researcher,1,99521,4,100
+"Networking, Linux, Ethical Hacking",0,4,Deep Learning Specialization,Cybersecurity Analyst,1,47001,10,75
+"NLP, Pytorch",7,5,AWS Certified,AI Researcher,1,92104,6,100
+"Python, NLP",7,4,Google ML,AI Researcher,1,80936,3,100
+"C++, SQL, Java",5,2,Google ML,Software Engineer,1,97505,7,100
+"Linux, Cybersecurity",7,5,,Cybersecurity Analyst,1,106469,0,80
+"SQL, Python",1,3,AWS Certified,Data Scientist,1,52364,8,70
+"C++, React",10,3,AWS Certified,Software Engineer,1,101108,9,100
+"Networking, Linux",1,4,AWS Certified,Cybersecurity Analyst,1,51200,10,80
+"NLP, TensorFlow, Python",3,4,,AI Researcher,1,66403,10,95
+"Machine Learning, Python",1,3,Deep Learning Specialization,Data Scientist,1,50397,8,70
+"SQL, Python, Machine Learning",4,4,AWS Certified,Data Scientist,1,95486,6,95
+"SQL, Java",5,1,AWS Certified,Software Engineer,1,72756,4,90
+"SQL, Java, C++, React",4,3,AWS Certified,Software Engineer,1,50602,9,100
+"Python, Machine Learning",8,5,Google ML,Data Scientist,1,103477,9,100
+"React, SQL, Java",1,3,Deep Learning Specialization,Software Engineer,1,46437,9,80
+"Pytorch, Python",5,2,Deep Learning Specialization,AI Researcher,1,89338,1,75
+"Python, NLP, TensorFlow, Pytorch",5,5,,AI Researcher,1,45488,9,100
+"Ethical Hacking, Cybersecurity, Linux",9,4,,Cybersecurity Analyst,1,55058,3,100
+"SQL, Deep Learning, Machine Learning",1,3,,Data Scientist,0,54006,4,45
+"Python, SQL, Machine Learning",9,1,Google ML,Data Scientist,1,82004,2,100
+"Python, SQL, Machine Learning",0,2,AWS Certified,Data Scientist,0,112663,7,60
+"Cybersecurity, Networking, Ethical Hacking",1,1,Google ML,Cybersecurity Analyst,0,56827,4,55
+"C++, Java, SQL, React",3,1,Google ML,Software Engineer,1,49367,3,75
+"Networking, Cybersecurity, Ethical Hacking, Linux",1,1,AWS Certified,Cybersecurity Analyst,0,86274,3,55
+"TensorFlow, Pytorch",2,1,,AI Researcher,0,62312,1,35
+"Java, React",6,5,Google ML,Software Engineer,1,80278,4,100
+"Python, Pytorch",0,2,Deep Learning Specialization,AI Researcher,1,71804,10,70
+"SQL, Deep Learning, Machine Learning, Python",8,1,,Data Scientist,1,72780,9,100
+"Machine Learning, Deep Learning, Python",9,4,Google ML,Data Scientist,1,84443,3,100
+"C++, React, Java, SQL",9,4,,Software Engineer,1,99057,8,100
+"Deep Learning, Python, Machine Learning, SQL",10,3,Deep Learning Specialization,Data Scientist,1,63516,2,100
+"Java, React, C++",1,5,,Software Engineer,0,62647,3,40
+"Java, C++, React, SQL",8,1,,Software Engineer,1,89042,1,100
+"Pytorch, Python, TensorFlow, NLP",9,4,Google ML,AI Researcher,1,47919,4,100
+"Linux, Networking, Ethical Hacking, Cybersecurity",9,4,Google ML,Cybersecurity Analyst,1,81596,3,100
+"SQL, Python, Machine Learning, Deep Learning",1,2,AWS Certified,Data Scientist,0,43647,1,45
+"Pytorch, TensorFlow, NLP",8,5,Deep Learning Specialization,AI Researcher,1,50670,0,100
+"Ethical Hacking, Networking, Linux",0,3,Google ML,Cybersecurity Analyst,0,60440,7,60
+"Python, SQL, Machine Learning, Deep Learning",0,4,Deep Learning Specialization,Data Scientist,0,69800,6,60
+"Java, SQL",5,3,AWS Certified,Software Engineer,1,40914,6,100
+"TensorFlow, NLP",9,1,Deep Learning Specialization,AI Researcher,1,111697,4,100
+"Java, React, SQL, C++",4,2,Deep Learning Specialization,Software Engineer,1,88155,8,100
+"Python, Machine Learning",0,4,Deep Learning Specialization,Data Scientist,0,61332,0,20
+"Cybersecurity, Ethical Hacking, Linux, Networking",7,5,,Cybersecurity Analyst,1,62406,1,95
+"TensorFlow, Python",1,3,,AI Researcher,0,75420,6,50
+"Deep Learning, Python, Machine Learning, SQL",6,1,Deep Learning Specialization,Data Scientist,1,82300,4,100
+"NLP, TensorFlow, Pytorch",7,3,,AI Researcher,1,88358,4,100
+"React, C++",1,5,Deep Learning Specialization,Software Engineer,1,107085,10,80
+"C++, Java",9,4,Deep Learning Specialization,Software Engineer,1,51284,4,100
+"Python, NLP, TensorFlow",10,2,,AI Researcher,1,62710,2,100
+"Java, SQL, C++",0,1,AWS Certified,Software Engineer,0,52290,2,35
+"Java, React, C++",8,4,,Software Engineer,1,87272,2,100
+"SQL, Deep Learning, Python, Machine Learning",6,4,Deep Learning Specialization,Data Scientist,1,72143,10,100
+"Python, Pytorch",7,1,,AI Researcher,1,98548,7,100
+"React, SQL, Java",5,5,Google ML,Software Engineer,1,102333,10,100
+"Linux, Ethical Hacking, Cybersecurity, Networking",10,4,,Cybersecurity Analyst,1,60343,8,100
+"NLP, TensorFlow",4,3,Google ML,AI Researcher,1,49331,7,95
+"Pytorch, TensorFlow, Python",4,3,Google ML,AI Researcher,1,67536,6,95
+"TensorFlow, NLP, Pytorch",5,1,AWS Certified,AI Researcher,1,88653,0,75
+"NLP, Pytorch",0,1,Deep Learning Specialization,AI Researcher,1,87556,10,70
+"Java, SQL, C++",9,2,Google ML,Software Engineer,1,113365,8,100
+"TensorFlow, Pytorch, Python, NLP",1,1,AWS Certified,AI Researcher,0,97235,4,60
+"TensorFlow, NLP, Pytorch, Python",4,5,Deep Learning Specialization,AI Researcher,1,89633,2,80
+"TensorFlow, Pytorch, NLP, Python",6,2,AWS Certified,AI Researcher,1,109750,9,100
+"Python, Deep Learning",6,5,Google ML,Data Scientist,1,63260,8,100
+"SQL, Java, React",6,1,Google ML,Software Engineer,1,67745,3,100
+"Linux, Cybersecurity",1,4,Google ML,Cybersecurity Analyst,0,85755,3,45
+"Ethical Hacking, Cybersecurity",8,2,Deep Learning Specialization,Cybersecurity Analyst,1,58775,3,100
+"Ethical Hacking, Networking",2,3,Deep Learning Specialization,Cybersecurity Analyst,0,49346,3,55
+"Ethical Hacking, Networking, Linux",8,5,,Cybersecurity Analyst,1,97521,7,100
+"Java, SQL",5,2,Google ML,Software Engineer,1,81801,1,75
+"Deep Learning, Machine Learning, SQL",7,2,AWS Certified,Data Scientist,1,118152,6,100
+"NLP, Python, TensorFlow",9,2,AWS Certified,AI Researcher,1,105695,0,100
+"Python, Deep Learning, Machine Learning",2,2,Deep Learning Specialization,Data Scientist,0,98024,2,55
+"Python, Machine Learning, SQL",4,2,,Data Scientist,1,85884,6,85
+"Ethical Hacking, Linux, Networking, Cybersecurity",7,3,,Cybersecurity Analyst,1,107237,3,100
+"Java, React",9,2,Google ML,Software Engineer,1,117897,0,100
+"Machine Learning, SQL, Deep Learning",5,2,Deep Learning Specialization,Data Scientist,1,59033,4,95
+"SQL, Python, Machine Learning, Deep Learning",3,3,Deep Learning Specialization,Data Scientist,1,102054,1,65
+"Pytorch, TensorFlow",0,1,Deep Learning Specialization,AI Researcher,0,98413,3,35
+"C++, Java",2,3,Deep Learning Specialization,Software Engineer,0,85561,2,50
+"NLP, TensorFlow, Pytorch",9,5,,AI Researcher,1,88498,9,100
+"Networking, Cybersecurity, Linux, Ethical Hacking",10,2,,Cybersecurity Analyst,1,101100,10,100
+"React, C++, Java",5,5,AWS Certified,Software Engineer,1,72099,10,100
+"React, Java, SQL",4,3,Google ML,Software Engineer,1,99599,9,100
+"React, C++, Java, SQL",5,3,Deep Learning Specialization,Software Engineer,1,68881,8,100
+"Java, React",6,1,Google ML,Software Engineer,1,62463,0,80
+"Python, TensorFlow, Pytorch, NLP",4,1,AWS Certified,AI Researcher,1,47581,2,80
+"Linux, Networking, Cybersecurity, Ethical Hacking",7,5,,Cybersecurity Analyst,1,91604,3,100
+"SQL, Java",1,5,AWS Certified,Software Engineer,1,74663,9,75
+"Java, C++, React",6,3,AWS Certified,Software Engineer,1,64025,10,100
+"SQL, Python",9,1,Deep Learning Specialization,Data Scientist,1,66133,2,100
+"Machine Learning, Python, Deep Learning, SQL",5,4,Deep Learning Specialization,Data Scientist,1,95222,5,100
+"Pytorch, Python",3,3,Deep Learning Specialization,AI Researcher,0,48726,0,50
+"Linux, Networking, Ethical Hacking, Cybersecurity",8,1,AWS Certified,Cybersecurity Analyst,1,111242,5,100
+"Python, NLP, Pytorch",3,1,Deep Learning Specialization,AI Researcher,0,91770,0,55
+"NLP, Python, Pytorch, TensorFlow",1,1,AWS Certified,AI Researcher,0,113470,4,60
+"Java, C++, SQL",0,1,,Software Engineer,0,103202,3,30
+"Ethical Hacking, Networking, Linux, Cybersecurity",8,1,Deep Learning Specialization,Cybersecurity Analyst,1,114147,4,100
+"C++, Java, React, SQL",1,5,,Software Engineer,0,116556,0,30
+"TensorFlow, NLP, Python, Pytorch",6,1,Deep Learning Specialization,AI Researcher,1,60828,3,100
+"Networking, Cybersecurity",7,1,,Cybersecurity Analyst,1,42894,0,80
+"Linux, Cybersecurity, Ethical Hacking",4,4,,Cybersecurity Analyst,1,114988,5,80
+"Machine Learning, Python, SQL",10,4,Google ML,Data Scientist,1,88678,3,100
+"Deep Learning, SQL, Python, Machine Learning",4,4,,Data Scientist,1,60868,7,95
+"Ethical Hacking, Cybersecurity, Networking, Linux",3,3,Google ML,Cybersecurity Analyst,1,93303,1,65
+"Deep Learning, Python, SQL",3,1,Google ML,Data Scientist,1,64716,2,65
+"Cybersecurity, Ethical Hacking, Linux",9,2,Deep Learning Specialization,Cybersecurity Analyst,1,59885,2,100
+"SQL, Machine Learning, Deep Learning, Python",5,2,,Data Scientist,1,89620,3,85
+"Networking, Linux, Cybersecurity, Ethical Hacking",10,3,Deep Learning Specialization,Cybersecurity Analyst,1,83474,0,100
+"TensorFlow, Pytorch, Python",5,2,Google ML,AI Researcher,1,79333,5,100
+"TensorFlow, Pytorch, NLP",10,4,AWS Certified,AI Researcher,1,58221,8,100
+"SQL, Python, Deep Learning, Machine Learning",10,5,,Data Scientist,1,119703,1,100
+"Python, Machine Learning",8,5,AWS Certified,Data Scientist,1,95978,4,100
+"TensorFlow, NLP, Pytorch",6,2,Deep Learning Specialization,AI Researcher,1,63269,0,85
+"Python, Machine Learning",9,1,Google ML,Data Scientist,1,83152,2,100
+"Ethical Hacking, Networking, Linux",3,2,Google ML,Cybersecurity Analyst,1,118508,7,90
+"SQL, React, Java",6,5,AWS Certified,Software Engineer,1,99537,10,100
+"Python, Machine Learning, SQL, Deep Learning",7,5,AWS Certified,Data Scientist,1,62092,2,100
+"Python, Deep Learning, SQL, Machine Learning",7,2,Google ML,Data Scientist,1,65981,0,100
+"Ethical Hacking, Linux, Cybersecurity",5,3,Deep Learning Specialization,Cybersecurity Analyst,1,53855,8,100
+"Cybersecurity, Ethical Hacking, Networking, Linux",6,4,,Cybersecurity Analyst,1,98876,2,90
+"Linux, Ethical Hacking, Networking, Cybersecurity",6,1,AWS Certified,Cybersecurity Analyst,1,59082,5,100
+"Pytorch, TensorFlow, Python",2,5,,AI Researcher,0,85955,1,40
+"Ethical Hacking, Linux",6,1,AWS Certified,Cybersecurity Analyst,1,113676,9,100
+"Cybersecurity, Linux",2,3,Deep Learning Specialization,Cybersecurity Analyst,0,118103,1,45
+"SQL, Machine Learning",3,5,Deep Learning Specialization,Data Scientist,1,112466,9,95
+"SQL, Machine Learning",5,4,AWS Certified,Data Scientist,1,99076,8,100
+"Linux, Cybersecurity",5,4,,Cybersecurity Analyst,1,115234,10,100
+"TensorFlow, NLP, Python",1,4,,AI Researcher,0,76442,2,35
+"Networking, Cybersecurity, Linux, Ethical Hacking",7,4,Google ML,Cybersecurity Analyst,1,117704,10,100
+"Deep Learning, SQL",2,5,,Data Scientist,0,89120,3,45
+"Pytorch, NLP, Python",3,4,AWS Certified,AI Researcher,1,76100,6,85
+"Networking, Cybersecurity, Ethical Hacking",2,1,Google ML,Cybersecurity Analyst,1,63016,7,80
+"Java, C++, React, SQL",9,1,Deep Learning Specialization,Software Engineer,1,68144,2,100
+"Python, Machine Learning",7,4,,Data Scientist,1,98540,0,80
+"Networking, Ethical Hacking, Cybersecurity",8,3,,Cybersecurity Analyst,1,44474,1,100
+"Deep Learning, SQL, Python",3,1,AWS Certified,Data Scientist,1,50781,6,85
+"React, SQL, C++",3,2,Google ML,Software Engineer,1,100722,5,80
+"SQL, Python",9,5,Deep Learning Specialization,Data Scientist,1,69101,8,100
+"Machine Learning, Deep Learning, Python, SQL",6,3,,Data Scientist,1,76085,4,100
+"SQL, Machine Learning, Python, Deep Learning",9,1,Google ML,Data Scientist,1,57223,2,100
+"C++, React",1,3,,Software Engineer,0,55836,3,35
+"SQL, Deep Learning, Python, Machine Learning",8,1,Google ML,Data Scientist,1,118651,5,100
+"Pytorch, TensorFlow",3,3,,AI Researcher,1,81415,7,75
+"Networking, Cybersecurity, Ethical Hacking",8,3,,Cybersecurity Analyst,1,65748,4,100
+"Java, React",6,5,Deep Learning Specialization,Software Engineer,1,54170,7,100
+"Machine Learning, Deep Learning, SQL, Python",1,5,,Data Scientist,1,60495,7,65
+"Pytorch, NLP",0,1,,AI Researcher,0,42924,7,45
+"SQL, Deep Learning, Python",5,5,,Data Scientist,1,89654,3,80
+"React, Java, C++, SQL",7,4,Deep Learning Specialization,Software Engineer,1,89830,3,100
+"Java, C++, React, SQL",5,3,Deep Learning Specialization,Software Engineer,1,64162,7,100
+"Pytorch, Python",0,1,Deep Learning Specialization,AI Researcher,0,44226,7,55
+"NLP, TensorFlow, Python",0,3,Deep Learning Specialization,AI Researcher,0,65417,3,40
+"SQL, Python, Machine Learning, Deep Learning",3,4,Google ML,Data Scientist,1,65930,5,85
+"React, SQL, Java, C++",1,5,AWS Certified,Software Engineer,1,58162,5,65
+"Linux, Cybersecurity, Ethical Hacking",8,1,Deep Learning Specialization,Cybersecurity Analyst,1,59707,8,100
+"Linux, Ethical Hacking",1,5,AWS Certified,Cybersecurity Analyst,0,60465,3,45
+"TensorFlow, NLP, Python",3,3,Deep Learning Specialization,AI Researcher,1,80393,10,100
+"Machine Learning, SQL, Python",10,5,,Data Scientist,1,95170,6,100
+"Pytorch, Python, TensorFlow, NLP",9,1,AWS Certified,AI Researcher,1,114772,5,100
+"Pytorch, Python",7,2,,AI Researcher,1,42236,6,100
+"Python, Deep Learning",8,5,,Data Scientist,1,69641,10,100
+"C++, SQL, Java",1,5,Deep Learning Specialization,Software Engineer,1,68682,7,70
+"Ethical Hacking, Cybersecurity, Linux",3,4,Deep Learning Specialization,Cybersecurity Analyst,0,113725,0,55
+"Python, TensorFlow",1,1,Deep Learning Specialization,AI Researcher,0,89941,4,50
+"Cybersecurity, Ethical Hacking, Linux, Networking",8,3,Google ML,Cybersecurity Analyst,1,102247,8,100
+"TensorFlow, NLP",6,5,Google ML,AI Researcher,1,87988,1,85
+"Ethical Hacking, Cybersecurity, Networking",8,2,,Cybersecurity Analyst,1,66329,0,95
+"NLP, Python, TensorFlow",1,5,Deep Learning Specialization,AI Researcher,1,42249,7,70
+"Java, C++",9,3,Google ML,Software Engineer,1,82341,3,100
+"NLP, Pytorch, Python, TensorFlow",10,1,,AI Researcher,1,43594,4,100
+"Ethical Hacking, Linux, Cybersecurity, Networking",7,3,,Cybersecurity Analyst,1,116460,10,100
+"C++, React",2,1,AWS Certified,Software Engineer,1,96027,5,65
+"Cybersecurity, Ethical Hacking, Networking, Linux",1,4,Deep Learning Specialization,Cybersecurity Analyst,1,102390,6,70
+"Python, NLP, TensorFlow",2,4,Google ML,AI Researcher,1,90388,4,65
+"Machine Learning, Python, Deep Learning",3,2,AWS Certified,Data Scientist,1,99842,4,75
+"Networking, Linux, Ethical Hacking",7,2,Google ML,Cybersecurity Analyst,1,96689,3,100
+"C++, SQL",2,3,Google ML,Software Engineer,0,94346,1,45
+"SQL, Java",1,2,Google ML,Software Engineer,1,45989,7,65
+"TensorFlow, Python, NLP",3,2,,AI Researcher,0,41769,3,60
+"Linux, Ethical Hacking, Cybersecurity, Networking",8,4,AWS Certified,Cybersecurity Analyst,1,45438,3,100
+"SQL, Deep Learning, Python, Machine Learning",7,1,,Data Scientist,1,82958,10,100
+"TensorFlow, Python, NLP, Pytorch",8,3,AWS Certified,AI Researcher,1,70446,8,100
+"Linux, Networking, Cybersecurity, Ethical Hacking",1,1,,Cybersecurity Analyst,1,40222,10,80
+"Pytorch, TensorFlow, Python, NLP",10,5,Google ML,AI Researcher,1,99512,2,100
+"Cybersecurity, Linux",9,5,,Cybersecurity Analyst,1,77138,0,100
+"Python, NLP",1,4,Google ML,AI Researcher,0,98317,1,35
+"Python, TensorFlow, Pytorch, NLP",6,1,,AI Researcher,1,78872,4,100
+"Java, SQL",8,4,Deep Learning Specialization,Software Engineer,1,96786,4,100
+"Linux, Ethical Hacking, Cybersecurity",4,5,AWS Certified,Cybersecurity Analyst,1,96836,1,70
+"Cybersecurity, Networking",1,2,Google ML,Cybersecurity Analyst,0,94563,6,60
+"Python, Deep Learning, Machine Learning",2,2,Deep Learning Specialization,Data Scientist,1,106472,4,65
+"Linux, Networking, Ethical Hacking",7,1,,Cybersecurity Analyst,1,79874,6,100
+"Python, Pytorch",3,5,Deep Learning Specialization,AI Researcher,1,43097,8,90
+"Cybersecurity, Networking, Ethical Hacking",2,4,AWS Certified,Cybersecurity Analyst,1,102929,10,95
+"Python, NLP, Pytorch",1,3,Google ML,AI Researcher,0,113921,1,40
+"React, C++, Java, SQL",0,4,AWS Certified,Software Engineer,1,80517,8,70
+"Deep Learning, Python",3,3,AWS Certified,Data Scientist,1,110523,4,70
+"SQL, Java, C++, React",9,4,,Software Engineer,1,76224,5,100
+"Cybersecurity, Linux, Networking",0,3,Deep Learning Specialization,Cybersecurity Analyst,0,49774,7,60
+"React, SQL",7,2,AWS Certified,Software Engineer,1,75572,0,90
+"Ethical Hacking, Linux, Cybersecurity, Networking",1,2,Deep Learning Specialization,Cybersecurity Analyst,1,80647,8,80
+"Python, Deep Learning",5,2,,Data Scientist,1,67218,3,75
+"Python, TensorFlow, NLP, Pytorch",8,5,AWS Certified,AI Researcher,1,104942,5,100
+"Deep Learning, SQL",1,4,Google ML,Data Scientist,0,64383,4,50
+"Linux, Ethical Hacking",10,3,Deep Learning Specialization,Cybersecurity Analyst,1,50784,0,100
+"Deep Learning, Machine Learning, Python, SQL",5,2,AWS Certified,Data Scientist,1,78601,7,100
+"C++, SQL, React",8,2,Google ML,Software Engineer,1,99288,4,100
+"Linux, Networking",0,2,AWS Certified,Cybersecurity Analyst,0,64620,6,50
+"NLP, Pytorch",2,1,Deep Learning Specialization,AI Researcher,1,113947,8,80
+"Deep Learning, Python, SQL",2,1,Deep Learning Specialization,Data Scientist,1,119054,8,85
+"Cybersecurity, Ethical Hacking, Linux",7,3,AWS Certified,Cybersecurity Analyst,1,63157,4,100
+"Deep Learning, Machine Learning, SQL",5,1,Google ML,Data Scientist,1,41593,4,95
+"SQL, Java, React, C++",4,3,Deep Learning Specialization,Software Engineer,1,101488,5,95
+"React, Java",2,3,AWS Certified,Software Engineer,1,113130,8,80
+"Python, NLP, TensorFlow, Pytorch",9,2,AWS Certified,AI Researcher,1,95912,10,100
+"Pytorch, NLP, TensorFlow, Python",7,4,AWS Certified,AI Researcher,1,51478,9,100
+"TensorFlow, Python, Pytorch",8,5,,AI Researcher,1,75976,1,100
+"SQL, Machine Learning",2,2,,Data Scientist,0,116999,2,40
+"React, C++, SQL, Java",7,3,Deep Learning Specialization,Software Engineer,1,90437,5,100
+"NLP, Pytorch, TensorFlow",6,2,Deep Learning Specialization,AI Researcher,1,72164,4,100
+"Java, C++, React",9,4,,Software Engineer,1,54990,1,100
+"Cybersecurity, Linux",8,1,Google ML,Cybersecurity Analyst,1,90950,10,100
+"SQL, Machine Learning, Deep Learning",0,2,Deep Learning Specialization,Data Scientist,0,113435,2,35
+"TensorFlow, Pytorch, Python",8,2,AWS Certified,AI Researcher,1,78090,6,100
+"Python, Pytorch",7,1,Google ML,AI Researcher,1,71756,2,100
+"Ethical Hacking, Linux, Networking",1,5,AWS Certified,Cybersecurity Analyst,1,59652,10,85
+"TensorFlow, NLP",10,1,AWS Certified,AI Researcher,1,86663,2,100
+"Python, TensorFlow",0,4,AWS Certified,AI Researcher,0,77225,1,25
+"NLP, Python, Pytorch",1,3,AWS Certified,AI Researcher,0,97459,0,35
+"NLP, TensorFlow",7,3,Google ML,AI Researcher,1,99118,1,95
+"Networking, Ethical Hacking",0,4,AWS Certified,Cybersecurity Analyst,0,74792,5,45
+"SQL, React",10,2,Deep Learning Specialization,Software Engineer,1,89543,5,100
+"SQL, Machine Learning, Deep Learning, Python",8,4,Google ML,Data Scientist,1,109019,8,100
+"Cybersecurity, Linux, Networking, Ethical Hacking",9,5,Deep Learning Specialization,Cybersecurity Analyst,1,94447,4,100
+"Machine Learning, SQL, Python",0,5,Google ML,Data Scientist,0,43642,7,60
+"Ethical Hacking, Cybersecurity",0,1,,Cybersecurity Analyst,0,47079,8,50
+"Linux, Cybersecurity",2,5,AWS Certified,Cybersecurity Analyst,0,48427,1,45
+"NLP, Pytorch, Python",8,3,,AI Researcher,1,75898,3,100
+"Networking, Linux",3,4,Deep Learning Specialization,Cybersecurity Analyst,1,102962,7,85
+"NLP, TensorFlow",7,5,Deep Learning Specialization,AI Researcher,1,48195,0,90
+"Deep Learning, Machine Learning, Python",3,3,AWS Certified,Data Scientist,0,71310,1,60
+"React, C++, SQL, Java",4,2,Deep Learning Specialization,Software Engineer,1,90345,7,100
+"Cybersecurity, Networking, Ethical Hacking",6,4,AWS Certified,Cybersecurity Analyst,1,53165,8,100
+"Deep Learning, Machine Learning",0,5,Google ML,Data Scientist,0,73914,1,25
+"C++, SQL, React",10,4,Deep Learning Specialization,Software Engineer,1,48829,5,100
+"Python, TensorFlow, Pytorch, NLP",9,3,Google ML,AI Researcher,1,99238,1,100
+"Pytorch, Python, NLP, TensorFlow",0,4,Deep Learning Specialization,AI Researcher,1,67037,9,75
+"Python, TensorFlow",3,1,,AI Researcher,0,82959,3,55
+"Python, Deep Learning",7,2,,Data Scientist,1,104891,2,90
+"Ethical Hacking, Cybersecurity, Networking",2,5,Deep Learning Specialization,Cybersecurity Analyst,1,117219,5,70
+"C++, React, SQL, Java",2,3,,Software Engineer,0,96229,1,45
+"Python, SQL, Deep Learning",10,2,,Data Scientist,1,92689,8,100
+"Python, Deep Learning, SQL, Machine Learning",2,4,,Data Scientist,1,82012,7,75
+"Ethical Hacking, Networking",6,3,Deep Learning Specialization,Cybersecurity Analyst,1,61633,4,100
+"TensorFlow, Python",2,5,Deep Learning Specialization,AI Researcher,1,73596,9,85
+"Cybersecurity, Networking, Linux",2,1,AWS Certified,Cybersecurity Analyst,0,104195,3,60
+"Machine Learning, Python, SQL",6,2,,Data Scientist,1,50393,5,100
+"Java, C++, React, SQL",4,1,,Software Engineer,1,98181,8,100
+"Pytorch, Python, NLP, TensorFlow",9,3,Deep Learning Specialization,AI Researcher,1,117784,3,100
+"Deep Learning, Python, Machine Learning, SQL",2,1,,Data Scientist,1,84282,6,70
+"Networking, Linux, Ethical Hacking, Cybersecurity",2,1,Deep Learning Specialization,Cybersecurity Analyst,0,108144,2,60
+"Networking, Cybersecurity, Linux, Ethical Hacking",8,3,Google ML,Cybersecurity Analyst,1,104087,4,100
+"SQL, Deep Learning",6,2,Google ML,Data Scientist,1,80534,6,100
+"Python, Pytorch, TensorFlow",1,4,,AI Researcher,1,88349,10,75
+"Linux, Ethical Hacking",10,4,Google ML,Cybersecurity Analyst,1,71601,9,100
+"React, Java, SQL, C++",5,5,Deep Learning Specialization,Software Engineer,1,94954,10,100
+"NLP, Python, TensorFlow, Pytorch",2,5,Deep Learning Specialization,AI Researcher,1,72948,10,100
+"Python, NLP",8,1,Google ML,AI Researcher,1,89808,10,100
+"SQL, Python, Machine Learning",6,1,AWS Certified,Data Scientist,1,52824,9,100
+"React, SQL, C++",1,3,,Software Engineer,1,88441,10,75
+"Machine Learning, SQL, Python",4,1,Google ML,Data Scientist,1,114573,8,100
+"Python, SQL",1,3,Deep Learning Specialization,Data Scientist,1,112556,7,65
+"Deep Learning, SQL",6,2,AWS Certified,Data Scientist,1,106433,0,80
+"SQL, Java",3,2,,Software Engineer,1,63531,8,80
+"Cybersecurity, Ethical Hacking, Networking",0,2,,Cybersecurity Analyst,0,82635,7,50
+"SQL, Machine Learning, Python, Deep Learning",6,1,Google ML,Data Scientist,1,99502,8,100
+"Deep Learning, SQL, Python, Machine Learning",1,5,Deep Learning Specialization,Data Scientist,0,52288,1,45
+"C++, SQL",5,4,Google ML,Software Engineer,1,106464,5,95
+"Networking, Ethical Hacking, Linux, Cybersecurity",10,4,Google ML,Cybersecurity Analyst,1,97006,5,100
+"Cybersecurity, Ethical Hacking, Linux",1,3,AWS Certified,Cybersecurity Analyst,1,78344,10,85
+"Cybersecurity, Networking, Ethical Hacking, Linux",2,1,,Cybersecurity Analyst,0,59121,4,60
+"Machine Learning, Python, Deep Learning",2,2,Deep Learning Specialization,Data Scientist,1,55376,7,80
+"TensorFlow, Python, NLP",9,4,AWS Certified,AI Researcher,1,101293,0,100
+"SQL, Java, C++, React",0,2,AWS Certified,Software Engineer,1,53699,8,70
+"Deep Learning, SQL",5,3,Google ML,Data Scientist,1,114879,8,100
+"Networking, Linux, Cybersecurity, Ethical Hacking",5,4,Deep Learning Specialization,Cybersecurity Analyst,1,102150,3,95
+"Python, Deep Learning",5,2,,Data Scientist,1,73559,10,100
+"Ethical Hacking, Linux",8,2,Deep Learning Specialization,Cybersecurity Analyst,1,93214,2,100
+"C++, Java, SQL",3,5,Deep Learning Specialization,Software Engineer,1,98746,4,75
+"Deep Learning, Python",3,3,AWS Certified,Data Scientist,1,44012,10,100
+"Machine Learning, Python, Deep Learning",9,2,,Data Scientist,1,93707,0,100
+"Ethical Hacking, Linux, Cybersecurity",4,3,,Cybersecurity Analyst,1,52722,9,100
+"SQL, React, C++",7,2,AWS Certified,Software Engineer,1,65733,0,95
+"Networking, Cybersecurity, Ethical Hacking, Linux",0,5,AWS Certified,Cybersecurity Analyst,0,62201,5,55
+"SQL, Java",7,4,AWS Certified,Software Engineer,1,115275,5,100
+"Python, Deep Learning, SQL, Machine Learning",1,2,AWS Certified,Data Scientist,1,61616,9,85
+"TensorFlow, Pytorch",5,5,AWS Certified,AI Researcher,1,79405,4,90
+"Linux, Cybersecurity, Networking",2,1,AWS Certified,Cybersecurity Analyst,0,54759,1,50
+"Ethical Hacking, Linux",7,4,Deep Learning Specialization,Cybersecurity Analyst,1,91922,0,90
+"Java, SQL, React, C++",10,1,Deep Learning Specialization,Software Engineer,1,69145,4,100
+"Pytorch, TensorFlow",2,3,AWS Certified,AI Researcher,1,65012,6,70
+"C++, SQL",7,3,AWS Certified,Software Engineer,1,45278,8,100
+"Networking, Linux, Ethical Hacking, Cybersecurity",4,2,,Cybersecurity Analyst,0,75555,0,60
+"SQL, Machine Learning",0,2,AWS Certified,Data Scientist,0,90362,8,60
+"C++, Java",0,1,,Software Engineer,0,89148,8,50
+"Deep Learning, SQL, Python, Machine Learning",8,3,AWS Certified,Data Scientist,1,100345,0,100
+"Python, NLP, TensorFlow",7,1,Google ML,AI Researcher,1,62487,8,100
+"Cybersecurity, Networking",3,3,,Cybersecurity Analyst,1,55213,9,85
+"Deep Learning, Machine Learning, SQL, Python",1,4,Deep Learning Specialization,Data Scientist,1,79991,10,90
+"Cybersecurity, Ethical Hacking, Networking, Linux",6,3,Google ML,Cybersecurity Analyst,1,89696,10,100
+"Ethical Hacking, Cybersecurity, Linux, Networking",0,3,Google ML,Cybersecurity Analyst,1,102527,7,65
+"SQL, Java, React",3,1,,Software Engineer,1,96280,9,90
+"Machine Learning, Python",1,3,AWS Certified,Data Scientist,0,108606,3,45
+"Ethical Hacking, Linux",2,4,,Cybersecurity Analyst,1,115687,7,65
+"Networking, Ethical Hacking",1,4,AWS Certified,Cybersecurity Analyst,0,65217,6,60
+"React, C++, SQL, Java",0,4,,Software Engineer,0,94099,0,20
+"Python, Deep Learning, SQL, Machine Learning",9,5,,Data Scientist,1,45043,5,100
+"Python, Machine Learning, Deep Learning",0,2,Google ML,Data Scientist,0,116661,3,40
+"Pytorch, TensorFlow",8,1,Deep Learning Specialization,AI Researcher,1,73142,9,100
+"Python, Pytorch, TensorFlow, NLP",7,1,Google ML,AI Researcher,1,75507,7,100
+"Python, NLP",0,5,Deep Learning Specialization,AI Researcher,1,81970,10,70
+"SQL, C++, React, Java",4,3,Google ML,Software Engineer,1,59448,9,100
+"SQL, Deep Learning, Machine Learning",6,4,,Data Scientist,1,58016,2,85
+"Networking, Ethical Hacking",0,2,,Cybersecurity Analyst,0,97659,4,30
+"Linux, Ethical Hacking",2,4,AWS Certified,Cybersecurity Analyst,0,76342,4,60
+"Networking, Linux, Cybersecurity, Ethical Hacking",7,2,AWS Certified,Cybersecurity Analyst,1,103102,2,100
+"SQL, Java",3,1,,Software Engineer,1,41272,6,70
+"TensorFlow, Python, NLP, Pytorch",1,1,AWS Certified,AI Researcher,0,40186,1,45
+"React, Java, SQL",4,4,Deep Learning Specialization,Software Engineer,1,82848,5,90
+"TensorFlow, Pytorch",5,4,Deep Learning Specialization,AI Researcher,1,82093,9,100
+"Linux, Cybersecurity, Ethical Hacking",2,1,,Cybersecurity Analyst,0,60533,2,45
+"Python, NLP",5,2,,AI Researcher,1,55494,8,100
+"Deep Learning, Python",6,3,Deep Learning Specialization,Data Scientist,1,53984,7,100
+"Linux, Networking, Ethical Hacking",10,2,,Cybersecurity Analyst,1,91447,5,100
+"Java, C++, React",7,5,,Software Engineer,1,100195,6,100
+"React, Java, SQL",3,1,,Software Engineer,0,118891,0,45
+"NLP, Pytorch, Python",4,5,Google ML,AI Researcher,1,45733,9,100
+"Java, SQL, C++, React",10,4,Google ML,Software Engineer,1,51113,0,100
+"Cybersecurity, Linux, Ethical Hacking",3,1,AWS Certified,Cybersecurity Analyst,1,75300,5,80
+"Ethical Hacking, Networking, Linux",1,4,Google ML,Cybersecurity Analyst,0,57375,2,45
+"C++, React",8,1,Deep Learning Specialization,Software Engineer,1,71077,7,100
+"Python, Machine Learning, Deep Learning",0,1,Deep Learning Specialization,Data Scientist,1,97987,10,75
+"SQL, Python",8,1,Deep Learning Specialization,Data Scientist,1,118157,10,100
+"SQL, Python, Deep Learning, Machine Learning",2,2,Google ML,Data Scientist,1,69741,10,100
+"Pytorch, NLP, Python, TensorFlow",10,4,AWS Certified,AI Researcher,1,77860,1,100
+"NLP, TensorFlow, Pytorch",3,4,AWS Certified,AI Researcher,1,112201,6,85
+"Pytorch, TensorFlow, NLP",8,2,AWS Certified,AI Researcher,1,80736,2,100
+"TensorFlow, Python, NLP, Pytorch",4,2,,AI Researcher,1,94202,4,80
+"React, C++",6,2,Google ML,Software Engineer,1,114890,7,100
+"Linux, Ethical Hacking, Networking",10,1,Deep Learning Specialization,Cybersecurity Analyst,1,108070,1,100
+"NLP, Pytorch, TensorFlow",1,2,AWS Certified,AI Researcher,0,60718,1,40
+"C++, SQL, Java",10,4,Deep Learning Specialization,Software Engineer,1,95050,2,100
+"Pytorch, NLP, Python",10,3,Google ML,AI Researcher,1,85192,2,100
+"Deep Learning, Python, SQL, Machine Learning",1,5,AWS Certified,Data Scientist,0,84131,3,55
+"NLP, TensorFlow",8,3,,AI Researcher,1,64722,1,95
+"NLP, Python",9,4,,AI Researcher,1,107875,5,100
+"C++, React, Java",9,2,Deep Learning Specialization,Software Engineer,1,76157,8,100
+"Python, Machine Learning, SQL",6,5,,Data Scientist,1,46741,1,80
+"Python, Pytorch, TensorFlow, NLP",8,2,AWS Certified,AI Researcher,1,65345,8,100
+"Java, SQL",3,2,Deep Learning Specialization,Software Engineer,0,89716,1,55
+"Machine Learning, Deep Learning, SQL, Python",3,4,AWS Certified,Data Scientist,0,93900,0,60
+"Ethical Hacking, Linux",1,5,,Cybersecurity Analyst,1,95656,9,65
+"Machine Learning, Python, Deep Learning",1,3,Deep Learning Specialization,Data Scientist,0,79404,4,55
+"Pytorch, NLP, Python, TensorFlow",5,2,,AI Researcher,1,56104,6,100
+"Cybersecurity, Linux, Ethical Hacking",5,3,AWS Certified,Cybersecurity Analyst,1,59821,5,100
+"Cybersecurity, Networking, Linux, Ethical Hacking",6,1,,Cybersecurity Analyst,1,102518,7,100
+"Networking, Linux, Ethical Hacking, Cybersecurity",10,2,Google ML,Cybersecurity Analyst,1,61659,10,100
+"Python, Machine Learning, Deep Learning",0,4,Deep Learning Specialization,Data Scientist,0,114745,6,55
+"Cybersecurity, Linux, Ethical Hacking",3,3,,Cybersecurity Analyst,1,103993,9,90
+"React, SQL, Java",1,1,Google ML,Software Engineer,1,105524,9,80
+"NLP, Pytorch, TensorFlow",8,3,Deep Learning Specialization,AI Researcher,1,102267,6,100
+"TensorFlow, NLP, Python",4,3,AWS Certified,AI Researcher,1,72225,6,95
+"Networking, Linux",3,3,,Cybersecurity Analyst,1,97811,6,70
+"Python, SQL",0,5,Deep Learning Specialization,Data Scientist,1,118756,9,65
+"Deep Learning, SQL",5,3,Google ML,Data Scientist,1,101471,0,70
+"Cybersecurity, Networking",4,5,,Cybersecurity Analyst,0,87051,0,50
+"C++, Java, React",4,3,Google ML,Software Engineer,1,53412,0,65
+"Pytorch, TensorFlow, NLP",1,3,AWS Certified,AI Researcher,1,64694,9,80
+"React, C++",5,1,Deep Learning Specialization,Software Engineer,1,85526,1,75
+"Java, React, C++, SQL",7,5,Deep Learning Specialization,Software Engineer,1,55916,6,100
+"Deep Learning, SQL, Machine Learning, Python",1,3,AWS Certified,Data Scientist,0,86355,4,60
+"Deep Learning, Machine Learning, Python, SQL",5,2,,Data Scientist,1,112155,0,70
+"SQL, Machine Learning, Python, Deep Learning",2,3,AWS Certified,Data Scientist,1,58438,6,80
+"Cybersecurity, Ethical Hacking, Linux",1,2,Google ML,Cybersecurity Analyst,1,65313,7,70
+"Linux, Networking, Cybersecurity",6,3,,Cybersecurity Analyst,1,59504,1,80
+"Python, Deep Learning",2,2,AWS Certified,Data Scientist,1,83979,5,65
+"NLP, TensorFlow, Pytorch, Python",8,1,Deep Learning Specialization,AI Researcher,1,108667,0,100
+"C++, React, Java, SQL",7,2,AWS Certified,Software Engineer,1,59061,6,100
+"SQL, C++",3,2,Deep Learning Specialization,Software Engineer,1,41891,4,70
+"Python, NLP, Pytorch, TensorFlow",4,1,,AI Researcher,1,61931,8,100
+"Cybersecurity, Linux, Ethical Hacking",7,3,Deep Learning Specialization,Cybersecurity Analyst,1,81422,10,100
+"React, Java",5,5,,Software Engineer,1,74711,8,100
+"Networking, Linux",5,4,Google ML,Cybersecurity Analyst,1,61038,9,100
+"SQL, Python, Machine Learning",10,5,AWS Certified,Data Scientist,1,55716,0,100
+"Pytorch, NLP",4,2,Google ML,AI Researcher,1,52692,10,100
+"Cybersecurity, Ethical Hacking",2,2,Deep Learning Specialization,Cybersecurity Analyst,1,100524,5,65
+"SQL, C++, React",7,4,AWS Certified,Software Engineer,1,49907,4,100
+"SQL, React, C++, Java",3,5,Deep Learning Specialization,Software Engineer,1,71138,8,100
+"Networking, Cybersecurity, Linux, Ethical Hacking",5,1,,Cybersecurity Analyst,1,93770,7,100
+"Python, Deep Learning, SQL",7,4,Deep Learning Specialization,Data Scientist,1,104836,5,100
+"Java, React, C++",0,5,Deep Learning Specialization,Software Engineer,0,47445,2,35
+"Python, Deep Learning, Machine Learning, SQL",3,5,Google ML,Data Scientist,1,77893,10,100
+"Java, React",9,2,AWS Certified,Software Engineer,1,79610,1,100
+"C++, SQL",6,3,AWS Certified,Software Engineer,1,83118,3,95
+"Deep Learning, Python, Machine Learning",9,3,Google ML,Data Scientist,1,105724,10,100
+"Networking, Cybersecurity",5,3,,Cybersecurity Analyst,1,40736,6,90
+"Machine Learning, SQL, Deep Learning",7,3,Google ML,Data Scientist,1,79303,6,100
+"Java, C++, SQL, React",4,2,,Software Engineer,1,46950,7,95
+"Java, React, SQL",4,5,AWS Certified,Software Engineer,1,92781,0,65
+"Java, React",10,1,Deep Learning Specialization,Software Engineer,1,75477,6,100
+"TensorFlow, Python, NLP",10,3,,AI Researcher,1,95290,0,100
+"Machine Learning, Python",8,1,,Data Scientist,1,40162,7,100
+"React, SQL, Java",6,2,Deep Learning Specialization,Software Engineer,1,115386,4,100
+"SQL, React, Java",0,4,,Software Engineer,0,81417,0,15
+"Networking, Ethical Hacking, Cybersecurity",10,1,Google ML,Cybersecurity Analyst,1,92197,5,100
+"Python, Machine Learning, Deep Learning",8,1,Deep Learning Specialization,Data Scientist,1,100425,0,100
+"Java, SQL, React",5,3,,Software Engineer,1,49176,8,100
+"Java, React, C++, SQL",3,1,Google ML,Software Engineer,1,63179,9,100
+"SQL, Java",8,2,AWS Certified,Software Engineer,1,83833,8,100
+"NLP, TensorFlow, Python, Pytorch",0,4,Google ML,AI Researcher,1,119583,8,70
+"Cybersecurity, Ethical Hacking, Linux, Networking",6,3,Deep Learning Specialization,Cybersecurity Analyst,1,80085,10,100
+"Linux, Networking",6,5,,Cybersecurity Analyst,1,85029,9,100
+"Java, C++",4,2,Deep Learning Specialization,Software Engineer,1,104969,8,100
+"TensorFlow, Python, NLP",6,2,Google ML,AI Researcher,1,88432,4,100
+"NLP, Pytorch, TensorFlow",9,3,Deep Learning Specialization,AI Researcher,1,67341,8,100
+"Ethical Hacking, Networking, Linux",1,4,Google ML,Cybersecurity Analyst,1,102085,6,65
+"Pytorch, Python",8,1,AWS Certified,AI Researcher,1,116934,10,100
+"C++, Java",0,4,Deep Learning Specialization,Software Engineer,0,109551,3,35
+"Ethical Hacking, Networking",10,4,AWS Certified,Cybersecurity Analyst,1,71504,6,100
+"TensorFlow, Pytorch, Python, NLP",4,3,AWS Certified,AI Researcher,1,61757,2,80
+"Pytorch, Python, TensorFlow, NLP",5,1,Google ML,AI Researcher,1,75037,10,100
+"Cybersecurity, Ethical Hacking, Networking, Linux",3,5,,Cybersecurity Analyst,1,105166,5,75
+"C++, Java, SQL",2,3,Google ML,Software Engineer,1,62255,7,80
+"Pytorch, Python",4,1,AWS Certified,AI Researcher,1,72233,9,100
+"Python, TensorFlow, Pytorch, NLP",8,5,AWS Certified,AI Researcher,1,44783,10,100
+"SQL, Deep Learning, Machine Learning, Python",1,5,,Data Scientist,0,84161,6,60
+"TensorFlow, NLP, Python",0,3,Google ML,AI Researcher,0,40720,2,35
+"SQL, Machine Learning, Deep Learning",9,2,,Data Scientist,1,114686,0,100
+"Machine Learning, SQL, Python, Deep Learning",2,3,Google ML,Data Scientist,1,108247,6,80
+"Python, Machine Learning",10,3,Google ML,Data Scientist,1,89482,5,100
+"Deep Learning, Machine Learning, SQL",1,2,,Data Scientist,0,58515,6,55
+"SQL, Python",8,3,Deep Learning Specialization,Data Scientist,1,75286,10,100
+"Networking, Ethical Hacking, Linux, Cybersecurity",10,4,Google ML,Cybersecurity Analyst,1,56891,0,100
+"SQL, Machine Learning",1,1,Deep Learning Specialization,Data Scientist,0,104811,1,35
+"Machine Learning, Python, SQL",0,3,Google ML,Data Scientist,0,116814,5,50
+"Linux, Cybersecurity, Ethical Hacking, Networking",2,2,AWS Certified,Cybersecurity Analyst,1,59397,10,100
+"React, C++, Java",10,3,Deep Learning Specialization,Software Engineer,1,76012,1,100
+"Networking, Cybersecurity, Linux",5,4,Google ML,Cybersecurity Analyst,1,113331,8,100
+"C++, Java, React, SQL",10,3,Deep Learning Specialization,Software Engineer,1,103925,9,100
+"Ethical Hacking, Networking",8,1,,Cybersecurity Analyst,1,69766,1,95
+"Ethical Hacking, Linux",6,2,Deep Learning Specialization,Cybersecurity Analyst,1,83470,2,90
+"TensorFlow, Python, NLP",10,3,,AI Researcher,1,63362,6,100
+"C++, React, SQL, Java",1,4,Google ML,Software Engineer,1,49305,9,85
+"SQL, Machine Learning, Deep Learning, Python",3,5,,Data Scientist,1,104405,9,95
+"Python, Pytorch, NLP",0,5,Google ML,AI Researcher,1,88256,9,70
+"C++, React, Java",10,1,Google ML,Software Engineer,1,117566,8,100
+"Deep Learning, Machine Learning, SQL",2,5,Deep Learning Specialization,Data Scientist,1,106032,10,95
+"Machine Learning, Python, SQL",6,2,Deep Learning Specialization,Data Scientist,1,116481,8,100
+"React, SQL, Java, C++",6,2,Deep Learning Specialization,Software Engineer,1,119018,0,90
+"Machine Learning, Deep Learning, Python",3,1,AWS Certified,Data Scientist,1,79930,9,100
+"Linux, Ethical Hacking, Cybersecurity, Networking",7,2,AWS Certified,Cybersecurity Analyst,1,61624,1,100
+"Java, SQL",8,4,Deep Learning Specialization,Software Engineer,1,115051,2,100
+"Java, React, SQL, C++",8,4,Google ML,Software Engineer,1,61601,7,100
+"Java, SQL, C++, React",3,2,Deep Learning Specialization,Software Engineer,0,67414,0,60
+"NLP, TensorFlow, Python, Pytorch",9,5,AWS Certified,AI Researcher,1,112005,10,100
+"Pytorch, TensorFlow, NLP, Python",5,3,AWS Certified,AI Researcher,1,53097,0,80
+"SQL, Deep Learning, Python, Machine Learning",7,2,,Data Scientist,1,54552,2,100
+"Linux, Networking",4,4,,Cybersecurity Analyst,0,116278,0,50
+"SQL, C++, React",1,4,Deep Learning Specialization,Software Engineer,0,118312,4,55
+"Networking, Ethical Hacking",0,5,Deep Learning Specialization,Cybersecurity Analyst,0,63561,5,45
+"TensorFlow, Python, NLP",7,1,Deep Learning Specialization,AI Researcher,1,74451,9,100
+"Machine Learning, Python",5,2,Google ML,Data Scientist,1,91581,4,90
+"Pytorch, TensorFlow",9,5,Google ML,AI Researcher,1,59856,2,100
+"Ethical Hacking, Linux",7,5,,Cybersecurity Analyst,1,47840,0,80
+"Networking, Ethical Hacking, Linux, Cybersecurity",9,2,Deep Learning Specialization,Cybersecurity Analyst,1,80779,5,100
+"Networking, Ethical Hacking, Cybersecurity, Linux",9,3,Deep Learning Specialization,Cybersecurity Analyst,1,73181,5,100
+"Cybersecurity, Linux, Ethical Hacking",1,2,AWS Certified,Cybersecurity Analyst,1,74376,9,80
+"Cybersecurity, Linux, Networking, Ethical Hacking",0,4,AWS Certified,Cybersecurity Analyst,0,77105,4,50
+"Java, React, SQL, C++",1,1,,Software Engineer,1,107509,10,80
+"React, C++",9,1,,Software Engineer,1,102113,6,100
+"SQL, React, Java, C++",9,3,Google ML,Software Engineer,1,95141,7,100
+"Ethical Hacking, Linux",4,1,Deep Learning Specialization,Cybersecurity Analyst,1,56684,5,85
+"SQL, Java, C++",2,1,AWS Certified,Software Engineer,0,90151,1,50
+"C++, React, SQL",9,5,Google ML,Software Engineer,1,113497,5,100
+"Python, NLP, Pytorch",2,5,AWS Certified,AI Researcher,0,80377,1,50
+"NLP, Pytorch, TensorFlow",9,1,,AI Researcher,1,108379,10,100
+"Linux, Networking, Cybersecurity, Ethical Hacking",8,2,Deep Learning Specialization,Cybersecurity Analyst,1,40945,4,100
+"Machine Learning, Deep Learning, SQL",0,1,AWS Certified,Data Scientist,0,63564,6,55
+"SQL, C++",7,1,AWS Certified,Software Engineer,1,47957,7,100
+"Networking, Cybersecurity",7,5,,Cybersecurity Analyst,1,50704,0,80
+"Java, React, SQL",1,5,,Software Engineer,0,91756,1,30
+"Ethical Hacking, Networking, Linux",0,2,Google ML,Cybersecurity Analyst,1,99469,9,70
+"SQL, Machine Learning, Deep Learning, Python",6,4,Deep Learning Specialization,Data Scientist,1,117621,5,100
+"TensorFlow, NLP, Pytorch, Python",4,4,AWS Certified,AI Researcher,1,48906,7,100
+"Deep Learning, Machine Learning, SQL",5,4,,Data Scientist,1,79635,9,100
+"Python, Machine Learning",7,1,AWS Certified,Data Scientist,1,55994,2,100
+"C++, SQL",5,4,Google ML,Software Engineer,1,41530,0,70
+"Python, Deep Learning, SQL, Machine Learning",5,3,Google ML,Data Scientist,1,69257,0,80
+"Networking, Linux",2,1,,Cybersecurity Analyst,0,64118,0,30
+"React, SQL",4,5,,Software Engineer,1,108770,10,100
+"Java, React, C++, SQL",8,2,Google ML,Software Engineer,1,63268,7,100
+"Pytorch, TensorFlow, NLP",4,1,,AI Researcher,1,59560,5,80
+"Java, C++, SQL",9,4,Deep Learning Specialization,Software Engineer,1,82288,0,100
+"TensorFlow, Pytorch, NLP, Python",6,5,Google ML,AI Researcher,1,64338,10,100
+"SQL, Java, C++, React",5,4,Deep Learning Specialization,Software Engineer,1,111578,9,100
+"Deep Learning, Python, Machine Learning",6,2,Google ML,Data Scientist,1,89840,2,95
+"SQL, C++, React",3,2,,Software Engineer,1,112003,7,80
+"Ethical Hacking, Networking",6,1,AWS Certified,Cybersecurity Analyst,1,119478,2,90
+"Machine Learning, Deep Learning",7,2,AWS Certified,Data Scientist,1,43930,8,100
+"SQL, Java, React",10,1,Deep Learning Specialization,Software Engineer,1,81778,4,100
+"Pytorch, NLP",1,3,,AI Researcher,0,105641,2,30
+"Machine Learning, Deep Learning, SQL",7,4,Deep Learning Specialization,Data Scientist,1,78218,10,100
+"Networking, Linux, Ethical Hacking, Cybersecurity",3,4,AWS Certified,Cybersecurity Analyst,1,115553,9,100
+"TensorFlow, NLP, Python",3,5,AWS Certified,AI Researcher,1,71785,7,90
+"Python, Deep Learning, Machine Learning, SQL",9,2,Google ML,Data Scientist,1,64063,9,100
+"React, C++, Java, SQL",5,1,,Software Engineer,1,89191,3,85
+"Python, TensorFlow, Pytorch, NLP",5,5,Google ML,AI Researcher,1,104955,0,80
+"React, C++, Java, SQL",7,4,Deep Learning Specialization,Software Engineer,1,58910,7,100
+"Machine Learning, Python, Deep Learning, SQL",1,1,Google ML,Data Scientist,0,55166,4,60
+"React, SQL, Java, C++",1,5,,Software Engineer,0,50422,1,35
+"Ethical Hacking, Networking, Cybersecurity",10,3,Deep Learning Specialization,Cybersecurity Analyst,1,51159,8,100
+"Machine Learning, Deep Learning, Python",7,2,Deep Learning Specialization,Data Scientist,1,99741,0,95
+"Cybersecurity, Linux, Networking, Ethical Hacking",0,3,,Cybersecurity Analyst,1,92175,10,70
+"Cybersecurity, Ethical Hacking",1,5,AWS Certified,Cybersecurity Analyst,0,65601,5,55
+"NLP, Python",5,2,AWS Certified,AI Researcher,1,105979,3,85
+"TensorFlow, Python",10,5,AWS Certified,AI Researcher,1,98659,6,100
+"NLP, Pytorch, Python",0,3,,AI Researcher,0,40400,0,15
+"React, Java, C++",6,1,AWS Certified,Software Engineer,1,103874,5,100
+"Networking, Linux",10,5,,Cybersecurity Analyst,1,82245,2,100
+"SQL, Deep Learning",5,1,Google ML,Data Scientist,1,55964,5,95
+"C++, Java, React, SQL",9,3,AWS Certified,Software Engineer,1,81897,4,100
+"React, Java",3,4,AWS Certified,Software Engineer,1,105280,9,95
+"Linux, Cybersecurity, Ethical Hacking",8,5,Deep Learning Specialization,Cybersecurity Analyst,1,71624,8,100
+"C++, SQL",2,4,AWS Certified,Software Engineer,0,83223,4,60
+"TensorFlow, Python, NLP, Pytorch",9,3,,AI Researcher,1,87232,0,100
+"Machine Learning, Python, Deep Learning",7,2,,Data Scientist,1,47698,8,100
+"C++, React",4,1,Deep Learning Specialization,Software Engineer,1,54116,10,100
+"Python, TensorFlow, Pytorch",1,1,Deep Learning Specialization,AI Researcher,1,85905,7,70
+"Ethical Hacking, Networking",6,4,,Cybersecurity Analyst,1,94810,7,100
+"Python, Machine Learning",5,1,,Data Scientist,1,65003,1,65
+"React, Java, SQL, C++",8,1,AWS Certified,Software Engineer,1,73325,2,100
+"React, C++, Java",8,3,AWS Certified,Software Engineer,1,65676,0,100
+"SQL, Java, React, C++",3,4,Google ML,Software Engineer,1,52454,9,100
+"Deep Learning, SQL",1,2,AWS Certified,Data Scientist,0,50848,4,50
+"Python, Machine Learning, SQL",0,2,AWS Certified,Data Scientist,0,71169,4,45
+"React, Java",5,1,AWS Certified,Software Engineer,1,70378,8,100
+"C++, Java",5,5,Google ML,Software Engineer,1,76165,8,100
+"TensorFlow, Python",5,1,,AI Researcher,1,114286,6,90
+"Ethical Hacking, Cybersecurity, Linux",6,3,Google ML,Cybersecurity Analyst,1,66802,1,90
+"TensorFlow, Python",1,4,Deep Learning Specialization,AI Researcher,0,108308,4,50
+"Python, SQL, Machine Learning",9,3,Deep Learning Specialization,Data Scientist,1,112067,2,100
+"Linux, Networking, Ethical Hacking",3,2,AWS Certified,Cybersecurity Analyst,1,45475,3,70
+"C++, React",10,4,Deep Learning Specialization,Software Engineer,1,49673,5,100
+"Linux, Ethical Hacking",3,4,AWS Certified,Cybersecurity Analyst,0,45271,2,60
+"SQL, React, Java",2,3,Google ML,Software Engineer,0,62666,1,50
+"Machine Learning, Python, SQL, Deep Learning",9,4,,Data Scientist,1,74018,10,100
+"Deep Learning, SQL, Machine Learning, Python",3,5,Google ML,Data Scientist,1,75861,1,65
+"Pytorch, TensorFlow, NLP",6,3,Deep Learning Specialization,AI Researcher,1,88511,4,100
+"Pytorch, Python, TensorFlow",7,1,,AI Researcher,1,53796,3,100
+"Pytorch, NLP, Python",10,4,Deep Learning Specialization,AI Researcher,1,106554,2,100
+"Python, Machine Learning",8,2,Deep Learning Specialization,Data Scientist,1,95958,2,100
+"Machine Learning, Python, Deep Learning",3,4,,Data Scientist,1,81656,7,80
+"NLP, Python, TensorFlow",7,1,,AI Researcher,1,94313,9,100
+"NLP, Pytorch, TensorFlow",7,2,Deep Learning Specialization,AI Researcher,1,66221,4,100
+"C++, React, SQL, Java",9,2,Google ML,Software Engineer,1,76854,9,100
+"NLP, TensorFlow, Pytorch, Python",0,1,Google ML,AI Researcher,0,107278,1,35
+"SQL, Java",5,1,AWS Certified,Software Engineer,1,54536,0,70
+"React, SQL",10,3,AWS Certified,Software Engineer,1,113587,0,100
+"Python, Deep Learning, Machine Learning",5,4,,Data Scientist,1,94342,10,100
+"Cybersecurity, Networking, Ethical Hacking, Linux",5,2,AWS Certified,Cybersecurity Analyst,1,74090,3,95
+"Pytorch, TensorFlow, NLP",4,2,,AI Researcher,1,90906,3,70
+"C++, React, SQL, Java",5,4,,Software Engineer,1,48105,6,100
+"NLP, TensorFlow, Python, Pytorch",8,3,,AI Researcher,1,50831,3,100
+"Linux, Ethical Hacking, Cybersecurity, Networking",8,4,,Cybersecurity Analyst,1,76830,2,100
+"Java, React, C++, SQL",5,3,Google ML,Software Engineer,1,87525,1,85
+"Java, SQL",3,5,Google ML,Software Engineer,1,112396,10,100
+"NLP, Pytorch",8,1,AWS Certified,AI Researcher,1,41624,4,100
+"Java, C++, SQL, React",7,1,Google ML,Software Engineer,1,115954,9,100
+"Pytorch, Python, TensorFlow",4,3,,AI Researcher,1,84358,2,65
+"Networking, Ethical Hacking, Linux",3,4,,Cybersecurity Analyst,1,101694,8,85
+"TensorFlow, Python, Pytorch, NLP",2,1,Deep Learning Specialization,AI Researcher,1,97529,4,70
+"SQL, React, C++, Java",8,4,Google ML,Software Engineer,1,102924,7,100
+"TensorFlow, NLP, Python, Pytorch",6,4,Deep Learning Specialization,AI Researcher,1,115539,9,100
+"Deep Learning, SQL, Machine Learning",6,3,Deep Learning Specialization,Data Scientist,1,79795,8,100
+"TensorFlow, NLP, Python, Pytorch",4,4,AWS Certified,AI Researcher,1,42305,10,100
+"Python, TensorFlow, NLP",10,4,,AI Researcher,1,118077,8,100
+"Cybersecurity, Ethical Hacking, Networking, Linux",2,1,Google ML,Cybersecurity Analyst,1,72178,3,65
+"Pytorch, NLP",5,4,AWS Certified,AI Researcher,1,64489,4,90
+"Cybersecurity, Ethical Hacking, Linux, Networking",5,2,AWS Certified,Cybersecurity Analyst,1,109004,7,100
+"Python, Deep Learning, SQL",4,3,AWS Certified,Data Scientist,1,95919,6,95
+"SQL, C++",0,2,Google ML,Software Engineer,0,46679,5,45
+"Python, TensorFlow, Pytorch",0,4,,AI Researcher,0,75275,1,20
+"SQL, Deep Learning",3,2,AWS Certified,Data Scientist,1,99679,5,75
+"TensorFlow, NLP, Python, Pytorch",3,1,,AI Researcher,1,95357,8,90
+"Cybersecurity, Networking",4,5,,Cybersecurity Analyst,0,98557,2,60
+"Linux, Ethical Hacking, Cybersecurity",8,5,Deep Learning Specialization,Cybersecurity Analyst,1,102480,5,100
+"Ethical Hacking, Networking, Linux, Cybersecurity",1,1,Google ML,Cybersecurity Analyst,1,97517,9,85
+"TensorFlow, Pytorch, Python, NLP",10,2,AWS Certified,AI Researcher,1,94952,6,100
+"C++, React",7,5,,Software Engineer,1,113418,1,85
+"React, SQL, Java",0,2,AWS Certified,Software Engineer,0,49006,3,40
+"Pytorch, TensorFlow, Python",6,2,,AI Researcher,1,65283,7,100
+"TensorFlow, NLP, Pytorch",3,1,Deep Learning Specialization,AI Researcher,1,65916,9,100
+"TensorFlow, NLP",7,4,Deep Learning Specialization,AI Researcher,1,45655,6,100
+"SQL, Machine Learning",5,1,Deep Learning Specialization,Data Scientist,1,42998,6,100
+"Ethical Hacking, Linux, Networking, Cybersecurity",3,5,,Cybersecurity Analyst,1,106073,4,70
+"Networking, Cybersecurity",1,5,,Cybersecurity Analyst,1,100697,9,65
+"Ethical Hacking, Networking",7,2,Deep Learning Specialization,Cybersecurity Analyst,1,75810,7,100
+"Networking, Ethical Hacking",3,1,Google ML,Cybersecurity Analyst,0,45918,0,50
+"Cybersecurity, Networking, Ethical Hacking, Linux",9,5,AWS Certified,Cybersecurity Analyst,1,41733,0,100
+"NLP, TensorFlow, Pytorch",3,4,,AI Researcher,1,115568,10,95
+"SQL, Java",0,1,AWS Certified,Software Engineer,0,65854,6,50
+"Pytorch, Python, TensorFlow",0,5,Google ML,AI Researcher,0,110862,6,55
+"Machine Learning, Python",3,2,Deep Learning Specialization,Data Scientist,0,79722,2,60
+"Linux, Cybersecurity, Ethical Hacking",10,4,Deep Learning Specialization,Cybersecurity Analyst,1,56768,3,100
+"Python, Pytorch, NLP, TensorFlow",4,5,Deep Learning Specialization,AI Researcher,1,50369,8,100
+"Pytorch, TensorFlow",3,2,AWS Certified,AI Researcher,1,58215,9,95
+"SQL, Java",1,4,,Software Engineer,0,82703,0,20
+"Networking, Cybersecurity, Ethical Hacking, Linux",4,2,Deep Learning Specialization,Cybersecurity Analyst,1,98013,4,90
+"Ethical Hacking, Networking",9,1,Google ML,Cybersecurity Analyst,1,56987,1,100
+"C++, SQL, React, Java",6,5,AWS Certified,Software Engineer,1,43584,9,100
+"Deep Learning, Machine Learning, Python, SQL",10,5,,Data Scientist,1,116205,7,100
+"Networking, Linux, Ethical Hacking, Cybersecurity",0,3,,Cybersecurity Analyst,0,108549,2,30
+"NLP, TensorFlow, Python",3,2,AWS Certified,AI Researcher,1,62695,9,100
+"Pytorch, NLP, Python",2,2,,AI Researcher,0,85775,5,60
+"Java, SQL",8,4,Google ML,Software Engineer,1,50950,8,100
+"Linux, Cybersecurity",2,5,,Cybersecurity Analyst,1,41824,7,65
+"Deep Learning, Python, SQL, Machine Learning",0,5,,Data Scientist,0,95742,2,30
+"Cybersecurity, Ethical Hacking, Networking",6,4,Google ML,Cybersecurity Analyst,1,108922,10,100
+"Python, NLP, Pytorch, TensorFlow",8,2,AWS Certified,AI Researcher,1,71605,3,100
+"C++, Java, SQL, React",10,5,,Software Engineer,1,79684,8,100
+"React, Java",3,1,,Software Engineer,0,44106,0,40
+"Python, Pytorch",5,3,Deep Learning Specialization,AI Researcher,1,103073,10,100
+"Python, Pytorch, NLP, TensorFlow",3,5,Deep Learning Specialization,AI Researcher,1,82727,9,100
+"Deep Learning, Python, SQL",2,5,Deep Learning Specialization,Data Scientist,0,70971,3,60
+"Python, NLP, Pytorch, TensorFlow",0,1,Google ML,AI Researcher,0,106452,3,45
+"Python, TensorFlow, NLP, Pytorch",5,4,,AI Researcher,1,74282,7,100
+"C++, React",9,3,,Software Engineer,1,113428,2,100
+"Ethical Hacking, Linux, Networking, Cybersecurity",0,2,Google ML,Cybersecurity Analyst,0,76108,5,55
+"SQL, Python",10,5,AWS Certified,Data Scientist,1,64417,7,100
+"Ethical Hacking, Networking, Linux, Cybersecurity",0,2,Google ML,Cybersecurity Analyst,1,70943,8,70
+"SQL, Machine Learning, Deep Learning",4,1,,Data Scientist,0,75186,1,60
+"SQL, Java, React, C++",5,4,Deep Learning Specialization,Software Engineer,1,60720,7,100
+"React, SQL, C++",6,4,Google ML,Software Engineer,1,100827,10,100
+"Machine Learning, Python, Deep Learning, SQL",8,1,AWS Certified,Data Scientist,1,57448,0,100
+"Networking, Ethical Hacking",2,5,AWS Certified,Cybersecurity Analyst,1,106309,7,75
+"Python, TensorFlow, Pytorch, NLP",3,5,,AI Researcher,1,63325,8,90
+"Linux, Cybersecurity",0,3,Google ML,Cybersecurity Analyst,0,89654,8,60
+"Java, C++",3,5,Deep Learning Specialization,Software Engineer,1,53518,7,85
+"React, Java",5,3,,Software Engineer,1,75717,7,95
+"TensorFlow, NLP",2,3,,AI Researcher,1,99963,10,80
+"SQL, Java, C++, React",6,1,Deep Learning Specialization,Software Engineer,1,73268,8,100
+"Linux, Cybersecurity, Ethical Hacking",7,2,,Cybersecurity Analyst,1,41678,8,100
+"Pytorch, TensorFlow, Python, NLP",4,1,Google ML,AI Researcher,1,45453,5,95
+"Python, TensorFlow",3,1,AWS Certified,AI Researcher,1,70067,3,65
+"C++, Java",4,3,Deep Learning Specialization,Software Engineer,1,43297,2,70
+"NLP, Python, TensorFlow",7,3,AWS Certified,AI Researcher,1,49447,10,100
+"Cybersecurity, Linux",7,2,Deep Learning Specialization,Cybersecurity Analyst,1,92129,3,100
+"Ethical Hacking, Linux, Networking, Cybersecurity",6,1,Google ML,Cybersecurity Analyst,1,59129,5,100
+"Cybersecurity, Ethical Hacking",2,3,Deep Learning Specialization,Cybersecurity Analyst,1,84569,7,75
+"Cybersecurity, Linux, Ethical Hacking, Networking",3,3,Deep Learning Specialization,Cybersecurity Analyst,1,118062,8,100
+"Machine Learning, Python, Deep Learning",2,4,Google ML,Data Scientist,0,56433,2,55
+"Linux, Ethical Hacking",4,2,,Cybersecurity Analyst,1,110442,7,85
+"Cybersecurity, Networking, Linux",8,4,Google ML,Cybersecurity Analyst,1,68492,4,100
+"Java, SQL",2,4,AWS Certified,Software Engineer,1,83473,10,90
+"Networking, Cybersecurity, Ethical Hacking, Linux",4,2,,Cybersecurity Analyst,1,113477,2,70
+"React, SQL",8,1,Deep Learning Specialization,Software Engineer,1,86416,8,100
+"SQL, Java, C++",9,2,AWS Certified,Software Engineer,1,84959,6,100
+"Pytorch, TensorFlow",9,1,Google ML,AI Researcher,1,61090,7,100
+"Networking, Cybersecurity, Ethical Hacking, Linux",7,2,Deep Learning Specialization,Cybersecurity Analyst,1,100153,6,100
+"Pytorch, TensorFlow, NLP",4,4,Google ML,AI Researcher,1,63556,10,100
+"Java, SQL, React",3,3,AWS Certified,Software Engineer,1,104253,8,95
+"Machine Learning, Python, SQL",2,5,AWS Certified,Data Scientist,1,43703,5,70
+"NLP, TensorFlow",2,1,AWS Certified,AI Researcher,1,52471,10,90
+"Networking, Cybersecurity",3,5,,Cybersecurity Analyst,0,93508,4,60
+"Python, TensorFlow, NLP, Pytorch",4,1,,AI Researcher,1,104295,6,90
+"C++, SQL, Java",6,5,AWS Certified,Software Engineer,1,80373,8,100
+"Python, TensorFlow",0,3,Google ML,AI Researcher,0,61991,1,25
+"NLP, TensorFlow, Python, Pytorch",1,3,Google ML,AI Researcher,0,61309,2,50
+"C++, SQL, Java",0,4,AWS Certified,Software Engineer,0,41382,0,25
+"Python, TensorFlow",6,1,Google ML,AI Researcher,1,116788,2,90
+"C++, SQL, React, Java",8,5,Deep Learning Specialization,Software Engineer,1,100202,5,100
+"Networking, Ethical Hacking, Linux, Cybersecurity",4,5,,Cybersecurity Analyst,1,52790,2,70
+"SQL, Machine Learning",4,3,Google ML,Data Scientist,1,42621,5,85
+"Pytorch, TensorFlow, Python, NLP",4,4,Google ML,AI Researcher,1,109802,3,85
+"SQL, Deep Learning",4,5,,Data Scientist,1,97719,8,90
+"Cybersecurity, Networking",3,5,,Cybersecurity Analyst,1,42368,9,85
+"Python, Machine Learning",8,2,AWS Certified,Data Scientist,1,59833,2,100
+"Ethical Hacking, Cybersecurity",9,3,,Cybersecurity Analyst,1,44150,6,100
+"C++, Java, SQL, React",2,4,AWS Certified,Software Engineer,0,54193,0,50
+"Python, Deep Learning, Machine Learning",8,2,Deep Learning Specialization,Data Scientist,1,110499,9,100
+"Machine Learning, Python, SQL",10,1,,Data Scientist,1,84036,5,100
+"SQL, Machine Learning, Deep Learning",3,5,,Data Scientist,0,91090,2,55
+"Pytorch, Python, NLP",2,2,,AI Researcher,0,94786,4,55
+"React, C++",7,4,AWS Certified,Software Engineer,1,98988,10,100
+"Linux, Networking, Cybersecurity",3,4,Deep Learning Specialization,Cybersecurity Analyst,0,105232,1,60
+"Networking, Linux",2,1,Google ML,Cybersecurity Analyst,0,73879,2,50
+"SQL, Machine Learning, Deep Learning, Python",5,5,AWS Certified,Data Scientist,1,91828,10,100
+"C++, Java, React",5,3,AWS Certified,Software Engineer,1,76625,10,100
+"Networking, Ethical Hacking",1,5,Google ML,Cybersecurity Analyst,1,117535,8,70
+"React, Java, C++",5,2,Google ML,Software Engineer,1,115813,0,75
+"Ethical Hacking, Linux, Networking",3,4,,Cybersecurity Analyst,0,95288,3,60
+"Cybersecurity, Ethical Hacking",6,3,AWS Certified,Cybersecurity Analyst,1,56096,8,100
+"Ethical Hacking, Linux, Networking",5,2,Deep Learning Specialization,Cybersecurity Analyst,1,87063,5,100
+"Deep Learning, SQL, Machine Learning",6,5,,Data Scientist,1,79100,2,85
+"Pytorch, Python, TensorFlow",5,3,AWS Certified,AI Researcher,1,77117,6,100
+"TensorFlow, Pytorch, Python, NLP",7,1,AWS Certified,AI Researcher,1,55614,4,100
+"React, SQL, C++, Java",0,1,Google ML,Software Engineer,0,118032,2,40
+"Deep Learning, SQL, Python, Machine Learning",5,4,AWS Certified,Data Scientist,1,97148,1,85
+"Pytorch, NLP, TensorFlow",7,1,Deep Learning Specialization,AI Researcher,1,106421,2,100
+"Java, C++, React",0,5,Deep Learning Specialization,Software Engineer,0,118475,2,35
+"NLP, TensorFlow",6,2,Google ML,AI Researcher,1,106122,10,100
+"NLP, Pytorch, Python",2,1,AWS Certified,AI Researcher,1,45134,10,95
+"NLP, Pytorch, TensorFlow",2,5,Deep Learning Specialization,AI Researcher,0,47573,3,60
+"C++, React, Java, SQL",1,4,,Software Engineer,0,58823,3,45
+"Cybersecurity, Networking, Linux",8,5,Deep Learning Specialization,Cybersecurity Analyst,1,107124,2,100
+"Deep Learning, Python, SQL",4,2,,Data Scientist,1,90584,3,70
+"React, C++, SQL, Java",9,5,Deep Learning Specialization,Software Engineer,1,68203,9,100
+"Machine Learning, Python, Deep Learning",0,2,Deep Learning Specialization,Data Scientist,0,91454,1,30
+"Python, Pytorch, TensorFlow",9,3,AWS Certified,AI Researcher,1,97312,1,100
+"C++, Java",5,2,Deep Learning Specialization,Software Engineer,1,116922,0,70
+"Python, Pytorch, TensorFlow, NLP",6,5,Deep Learning Specialization,AI Researcher,1,71832,4,100
+"Pytorch, Python, TensorFlow",0,2,,AI Researcher,0,88958,4,35
+"NLP, TensorFlow, Pytorch, Python",6,2,Google ML,AI Researcher,1,75755,0,90
+"Deep Learning, SQL",1,3,Google ML,Data Scientist,0,71365,6,60
+"Ethical Hacking, Linux, Cybersecurity, Networking",6,1,Deep Learning Specialization,Cybersecurity Analyst,1,85255,10,100
+"Machine Learning, Deep Learning, SQL",6,4,,Data Scientist,1,41610,7,100
+"SQL, Java, React",2,2,,Software Engineer,0,82150,4,55
+"SQL, Deep Learning",6,2,Deep Learning Specialization,Data Scientist,1,116832,1,85
+"SQL, Deep Learning, Python",0,2,Google ML,Data Scientist,0,93534,5,50
+"Python, TensorFlow, NLP",1,3,AWS Certified,AI Researcher,1,52956,8,75
+"Ethical Hacking, Cybersecurity",0,3,AWS Certified,Cybersecurity Analyst,0,68407,4,40
+"React, SQL, Java, C++",5,1,Deep Learning Specialization,Software Engineer,1,75828,4,100
+"Python, Deep Learning, SQL, Machine Learning",9,3,,Data Scientist,1,93197,0,100
+"SQL, Python",8,3,AWS Certified,Data Scientist,1,104379,6,100
+"Networking, Linux, Cybersecurity, Ethical Hacking",6,5,Google ML,Cybersecurity Analyst,1,58947,8,100
+"TensorFlow, Pytorch, Python",9,5,Google ML,AI Researcher,1,75101,2,100
+"SQL, Machine Learning",1,5,Deep Learning Specialization,Data Scientist,0,95743,4,50
+"Python, Pytorch, TensorFlow",0,3,Deep Learning Specialization,AI Researcher,0,54236,6,55
+"Machine Learning, Deep Learning, Python, SQL",4,1,,Data Scientist,1,51928,8,100
+"TensorFlow, Python, Pytorch, NLP",2,5,Deep Learning Specialization,AI Researcher,1,116970,3,65
+"Python, SQL, Deep Learning, Machine Learning",10,4,Deep Learning Specialization,Data Scientist,1,110158,8,100
+"SQL, C++, Java",6,1,,Software Engineer,1,113366,4,95
+"Deep Learning, Machine Learning, Python",10,2,,Data Scientist,1,58090,4,100
+"Java, React, C++",10,4,,Software Engineer,1,74425,5,100
+"Python, NLP, Pytorch, TensorFlow",6,5,Deep Learning Specialization,AI Researcher,1,65650,3,100
+"Python, SQL",0,2,Google ML,Data Scientist,1,76195,10,70
+"SQL, C++",7,4,Deep Learning Specialization,Software Engineer,1,61986,5,100
+"Ethical Hacking, Cybersecurity",5,5,Google ML,Cybersecurity Analyst,1,92506,5,95
+"Linux, Ethical Hacking",5,2,AWS Certified,Cybersecurity Analyst,1,111508,7,100
+"Python, Pytorch, TensorFlow, NLP",9,4,,AI Researcher,1,67670,9,100
+"Python, Deep Learning",9,2,AWS Certified,Data Scientist,1,108567,1,100
+"Networking, Linux, Ethical Hacking, Cybersecurity",7,5,,Cybersecurity Analyst,1,92893,7,100
+"TensorFlow, NLP",3,2,Google ML,AI Researcher,1,74914,10,100
+"Linux, Cybersecurity",9,1,Deep Learning Specialization,Cybersecurity Analyst,1,78574,7,100
+"Java, C++, SQL",10,3,,Software Engineer,1,53207,1,100
+"Deep Learning, Machine Learning, SQL, Python",1,5,,Data Scientist,1,108185,8,70
+"SQL, Deep Learning, Python, Machine Learning",6,3,Google ML,Data Scientist,1,107075,8,100
+"SQL, Deep Learning, Python, Machine Learning",7,4,,Data Scientist,1,71964,7,100
+"TensorFlow, Python, NLP, Pytorch",10,1,Deep Learning Specialization,AI Researcher,1,82119,2,100
+"React, Java, C++, SQL",3,5,Google ML,Software Engineer,1,63537,2,70
+"Networking, Cybersecurity, Ethical Hacking",7,5,,Cybersecurity Analyst,1,54150,0,85
+"Ethical Hacking, Networking, Cybersecurity",1,4,,Cybersecurity Analyst,1,47674,9,70
+"SQL, Java, C++",4,2,Deep Learning Specialization,Software Engineer,1,113251,8,100
+"Machine Learning, SQL, Python, Deep Learning",7,2,Google ML,Data Scientist,1,71459,0,100
+"TensorFlow, NLP, Pytorch, Python",8,4,Google ML,AI Researcher,1,53090,6,100
+"Networking, Ethical Hacking",6,1,Deep Learning Specialization,Cybersecurity Analyst,1,107340,7,100
+"Deep Learning, Python, SQL, Machine Learning",8,3,,Data Scientist,1,115812,5,100
+"SQL, C++",1,2,AWS Certified,Software Engineer,1,45422,10,80
+"SQL, C++, Java, React",4,3,,Software Engineer,1,119370,3,75
+"TensorFlow, Python, NLP, Pytorch",9,4,Google ML,AI Researcher,1,68212,9,100
+"Python, Deep Learning, Machine Learning, SQL",8,2,,Data Scientist,1,41965,2,100
+"Python, Machine Learning, Deep Learning",9,4,AWS Certified,Data Scientist,1,64058,1,100
+"SQL, Machine Learning, Python, Deep Learning",6,2,Deep Learning Specialization,Data Scientist,1,77388,4,100
+"Linux, Ethical Hacking",8,3,AWS Certified,Cybersecurity Analyst,1,96662,9,100
+"Deep Learning, SQL, Machine Learning, Python",3,1,AWS Certified,Data Scientist,1,89915,9,100
+"Deep Learning, Python, SQL",2,1,Deep Learning Specialization,Data Scientist,0,99578,0,45
+"SQL, Python, Machine Learning, Deep Learning",6,4,Deep Learning Specialization,Data Scientist,1,112595,7,100
+"TensorFlow, Pytorch",6,4,Deep Learning Specialization,AI Researcher,1,53035,10,100
+"Ethical Hacking, Networking",5,4,Deep Learning Specialization,Cybersecurity Analyst,1,75413,4,90
+"Linux, Cybersecurity, Ethical Hacking",8,3,Deep Learning Specialization,Cybersecurity Analyst,1,114489,9,100
+"Java, React, SQL",4,5,Deep Learning Specialization,Software Engineer,1,49673,7,100
+"TensorFlow, NLP, Pytorch, Python",1,5,AWS Certified,AI Researcher,0,83138,3,55
+"SQL, Machine Learning, Python, Deep Learning",4,1,Deep Learning Specialization,Data Scientist,1,73783,3,85
+"Networking, Linux, Ethical Hacking",4,5,,Cybersecurity Analyst,1,107425,2,65
+"Cybersecurity, Ethical Hacking, Linux, Networking",1,1,Google ML,Cybersecurity Analyst,0,51229,2,50
+"Ethical Hacking, Networking, Linux, Cybersecurity",0,2,,Cybersecurity Analyst,0,93079,2,30
+"SQL, Machine Learning",9,1,Google ML,Data Scientist,1,54846,8,100
+"Java, C++, React, SQL",10,5,Deep Learning Specialization,Software Engineer,1,77427,10,100
+"Java, C++, React, SQL",6,2,Deep Learning Specialization,Software Engineer,1,58157,4,100
+"Linux, Cybersecurity, Ethical Hacking",4,3,AWS Certified,Cybersecurity Analyst,1,67535,1,70
+"TensorFlow, Python",9,5,AWS Certified,AI Researcher,1,65183,1,100
+"React, SQL",8,4,AWS Certified,Software Engineer,1,46717,6,100
+"TensorFlow, NLP, Python",10,4,Google ML,AI Researcher,1,65446,9,100
+"Cybersecurity, Ethical Hacking, Networking, Linux",3,3,,Cybersecurity Analyst,1,53096,7,85
+"Pytorch, NLP, Python, TensorFlow",1,3,,AI Researcher,1,84774,9,75
+"React, C++, Java, SQL",6,2,Google ML,Software Engineer,1,74854,6,100
+"Pytorch, Python",4,4,AWS Certified,AI Researcher,1,54228,1,65
+"Python, SQL, Machine Learning",3,3,Deep Learning Specialization,Data Scientist,1,59564,2,65
+"Ethical Hacking, Cybersecurity, Networking, Linux",5,2,AWS Certified,Cybersecurity Analyst,1,104149,9,100
+"Java, SQL, C++",8,5,,Software Engineer,1,59474,3,100
+"Deep Learning, Python",9,2,Google ML,Data Scientist,1,91723,8,100
+"React, C++",7,5,,Software Engineer,1,107965,10,100
+"Ethical Hacking, Networking, Cybersecurity, Linux",8,1,,Cybersecurity Analyst,1,99384,1,100
+"Machine Learning, Python, SQL",2,3,Deep Learning Specialization,Data Scientist,1,84205,4,65
+"Cybersecurity, Networking, Linux, Ethical Hacking",10,4,Deep Learning Specialization,Cybersecurity Analyst,1,114697,9,100
+"Python, Pytorch",5,3,AWS Certified,AI Researcher,1,101270,7,100
+"Python, SQL, Deep Learning",3,3,AWS Certified,Data Scientist,1,55341,10,100
+"Ethical Hacking, Linux",2,3,,Cybersecurity Analyst,1,116969,7,65
+"Deep Learning, Machine Learning, SQL",10,2,,Data Scientist,1,70494,7,100
+"React, SQL, C++, Java",8,1,,Software Engineer,1,93647,10,100
+"Deep Learning, Machine Learning",4,2,Google ML,Data Scientist,1,88986,2,70
+"Python, SQL, Deep Learning",2,5,AWS Certified,Data Scientist,1,82119,8,85
+"SQL, Java, React",1,4,AWS Certified,Software Engineer,0,48917,3,50
+"Machine Learning, Python, SQL",2,2,,Data Scientist,0,44219,4,55
+"Ethical Hacking, Linux, Networking",7,1,,Cybersecurity Analyst,1,63601,10,100
+"Python, Pytorch, NLP, TensorFlow",1,1,Google ML,AI Researcher,0,101851,2,50
+"Cybersecurity, Ethical Hacking, Networking, Linux",3,3,AWS Certified,Cybersecurity Analyst,1,97789,5,85
+"Python, Pytorch, TensorFlow, NLP",9,4,,AI Researcher,1,91064,5,100
+"SQL, Java",7,4,AWS Certified,Software Engineer,1,48252,4,100
+"Machine Learning, Python, SQL, Deep Learning",6,4,AWS Certified,Data Scientist,1,116163,2,100
+"SQL, Deep Learning, Python",5,3,Deep Learning Specialization,Data Scientist,1,46669,5,100
+"Networking, Cybersecurity, Linux",9,2,Google ML,Cybersecurity Analyst,1,69810,0,100
+"Machine Learning, SQL, Deep Learning",10,5,,Data Scientist,1,54054,0,100
+"Linux, Ethical Hacking, Networking",4,4,Deep Learning Specialization,Cybersecurity Analyst,1,62790,9,100
+"Pytorch, Python",8,2,AWS Certified,AI Researcher,1,94680,10,100
+"TensorFlow, Pytorch, Python, NLP",6,5,AWS Certified,AI Researcher,1,109248,8,100
+"Linux, Networking, Cybersecurity",9,3,Deep Learning Specialization,Cybersecurity Analyst,1,73851,6,100
+"SQL, Python, Machine Learning, Deep Learning",3,1,,Data Scientist,1,94642,8,90
+"Networking, Cybersecurity, Ethical Hacking",8,2,,Cybersecurity Analyst,1,94140,4,100
+"TensorFlow, Python, NLP",6,5,Deep Learning Specialization,AI Researcher,1,112672,2,95
+"Python, SQL, Machine Learning",10,3,Google ML,Data Scientist,1,114118,2,100
+"Pytorch, Python, TensorFlow, NLP",5,3,Google ML,AI Researcher,1,109244,5,100
+"Java, React, SQL, C++",6,4,Google ML,Software Engineer,1,66936,5,100
+"TensorFlow, NLP, Pytorch",6,5,AWS Certified,AI Researcher,1,41199,9,100
+"SQL, Machine Learning, Python",3,5,Google ML,Data Scientist,1,45975,10,100
+"Java, C++, React, SQL",8,5,Google ML,Software Engineer,1,77705,0,100
+"Linux, Cybersecurity",8,3,AWS Certified,Cybersecurity Analyst,1,60790,7,100
+"Machine Learning, Python, Deep Learning, SQL",9,2,Google ML,Data Scientist,1,107697,5,100
+"C++, React, SQL, Java",5,1,AWS Certified,Software Engineer,1,84438,10,100
+"Python, SQL, Machine Learning, Deep Learning",4,2,AWS Certified,Data Scientist,1,65571,5,95
+"Machine Learning, Deep Learning, Python",3,5,,Data Scientist,1,107521,10,95
+"TensorFlow, NLP, Python",0,4,AWS Certified,AI Researcher,0,40085,2,35
+"Deep Learning, Machine Learning, SQL, Python",2,5,,Data Scientist,0,50002,1,45
+"Cybersecurity, Ethical Hacking, Networking, Linux",6,5,Google ML,Cybersecurity Analyst,1,67810,1,95
+"React, SQL",9,2,AWS Certified,Software Engineer,1,50001,6,100
+"Java, C++",8,4,AWS Certified,Software Engineer,1,71678,0,100
+"Pytorch, TensorFlow, Python, NLP",4,2,,AI Researcher,1,66621,5,85
+"SQL, Machine Learning",9,5,AWS Certified,Data Scientist,1,119901,3,100
+"TensorFlow, Pytorch, NLP, Python",4,1,AWS Certified,AI Researcher,1,103738,10,100
+"Machine Learning, Deep Learning",9,5,,Data Scientist,1,51682,8,100
+"Machine Learning, Deep Learning, SQL",3,5,AWS Certified,Data Scientist,1,48470,7,90
+"Ethical Hacking, Cybersecurity, Linux",1,1,Deep Learning Specialization,Cybersecurity Analyst,0,117772,2,45
+"Cybersecurity, Ethical Hacking, Linux",7,3,AWS Certified,Cybersecurity Analyst,1,64888,5,100
+"Python, Machine Learning, Deep Learning, SQL",7,4,Google ML,Data Scientist,1,112572,5,100
+"Cybersecurity, Networking",7,4,Google ML,Cybersecurity Analyst,1,117696,4,100
+"Pytorch, TensorFlow, Python",8,4,,AI Researcher,1,82202,5,100
+"Ethical Hacking, Networking",6,5,Google ML,Cybersecurity Analyst,1,45959,5,100
+"SQL, Java, React, C++",0,3,,Software Engineer,0,70344,4,40
+"SQL, Java, C++",3,4,,Software Engineer,1,46781,6,75
+"NLP, TensorFlow, Python, Pytorch",6,3,AWS Certified,AI Researcher,1,102676,0,90
+"React, SQL, Java, C++",2,4,Deep Learning Specialization,Software Engineer,1,99600,3,65
+"TensorFlow, NLP, Python, Pytorch",8,4,Google ML,AI Researcher,1,100399,7,100
+"Java, SQL",2,3,,Software Engineer,1,66087,9,75
+"Networking, Cybersecurity, Linux",2,5,Deep Learning Specialization,Cybersecurity Analyst,1,55337,6,75
+"Networking, Ethical Hacking, Cybersecurity, Linux",2,3,,Cybersecurity Analyst,0,60745,0,40
+"Pytorch, NLP, Python, TensorFlow",7,4,AWS Certified,AI Researcher,1,112353,10,100
+"Deep Learning, Machine Learning, SQL, Python",6,5,Deep Learning Specialization,Data Scientist,1,48306,10,100
+"Pytorch, Python",9,5,Deep Learning Specialization,AI Researcher,1,97435,7,100
+"Deep Learning, Machine Learning",4,5,AWS Certified,Data Scientist,0,103828,0,60
+"Linux, Ethical Hacking",10,3,Google ML,Cybersecurity Analyst,1,41917,9,100
+"Python, TensorFlow, NLP",6,2,,AI Researcher,1,56712,5,100
+"Python, Deep Learning, Machine Learning",0,2,AWS Certified,Data Scientist,0,72251,6,55
+"Python, TensorFlow",5,2,Google ML,AI Researcher,1,88058,0,70
+"Networking, Linux, Ethical Hacking",3,3,AWS Certified,Cybersecurity Analyst,1,102914,6,85
+"Machine Learning, Deep Learning",6,5,AWS Certified,Data Scientist,1,117600,0,80
+"NLP, Pytorch, TensorFlow",6,4,Deep Learning Specialization,AI Researcher,1,64149,0,85
+"Pytorch, Python, NLP",10,4,,AI Researcher,1,89696,3,100
+"Deep Learning, SQL, Machine Learning",3,2,,Data Scientist,0,94832,3,60
+"Linux, Networking, Cybersecurity, Ethical Hacking",3,3,AWS Certified,Cybersecurity Analyst,1,114989,9,100
+"SQL, Python",7,5,,Data Scientist,1,72691,1,85
+"TensorFlow, Python, NLP, Pytorch",0,4,,AI Researcher,0,113643,4,40
+"Deep Learning, Machine Learning, Python, SQL",5,2,,Data Scientist,1,92538,1,75
+"Deep Learning, Python",5,3,AWS Certified,Data Scientist,1,100800,3,85
+"Cybersecurity, Networking, Ethical Hacking",4,3,,Cybersecurity Analyst,1,112115,9,100
+"Java, SQL, React, C++",9,1,Google ML,Software Engineer,1,108502,9,100
+"Ethical Hacking, Networking",6,5,AWS Certified,Cybersecurity Analyst,1,66054,2,90
+"TensorFlow, Python",7,1,Deep Learning Specialization,AI Researcher,1,98529,1,95
+"Python, Machine Learning, Deep Learning, SQL",1,5,Google ML,Data Scientist,1,113545,6,70
+"Cybersecurity, Networking, Ethical Hacking",8,5,Deep Learning Specialization,Cybersecurity Analyst,1,54594,2,100
+"C++, React, SQL, Java",5,5,Deep Learning Specialization,Software Engineer,1,101120,5,100
+"Machine Learning, SQL",5,1,Deep Learning Specialization,Data Scientist,1,108012,7,100
+"C++, SQL, Java, React",7,1,,Software Engineer,1,117476,10,100
+"SQL, C++, Java",1,4,,Software Engineer,0,48157,5,50
+"Pytorch, TensorFlow, NLP, Python",1,4,,AI Researcher,0,63713,0,30
+"Python, Machine Learning",2,1,Deep Learning Specialization,Data Scientist,0,71635,1,45
+"Linux, Cybersecurity",9,1,,Cybersecurity Analyst,1,62823,7,100
+"SQL, Java, C++",1,4,Deep Learning Specialization,Software Engineer,1,82007,10,85
+"Machine Learning, Deep Learning, Python",10,4,Google ML,Data Scientist,1,47998,10,100
+"Python, SQL, Machine Learning",3,5,Google ML,Data Scientist,0,55365,1,60
+"Machine Learning, SQL",2,3,Deep Learning Specialization,Data Scientist,1,90929,7,75
+"Ethical Hacking, Linux",9,3,AWS Certified,Cybersecurity Analyst,1,46896,8,100
+"Pytorch, TensorFlow",5,5,AWS Certified,AI Researcher,1,43681,4,90
+"SQL, C++, Java, React",3,4,Google ML,Software Engineer,0,44121,0,60
+"Networking, Linux, Cybersecurity",1,5,Google ML,Cybersecurity Analyst,1,48456,8,75
+"Linux, Cybersecurity, Networking, Ethical Hacking",6,2,AWS Certified,Cybersecurity Analyst,1,109463,6,100
+"NLP, TensorFlow, Python",2,3,,AI Researcher,0,94281,2,45
+"Machine Learning, Deep Learning, SQL, Python",2,5,AWS Certified,Data Scientist,1,80720,6,80
+"Java, React, SQL, C++",3,5,,Software Engineer,1,78794,4,70
+"Ethical Hacking, Cybersecurity, Networking",3,1,Deep Learning Specialization,Cybersecurity Analyst,0,50972,1,60
+"SQL, Java, React",4,5,AWS Certified,Software Engineer,1,79539,5,90
+"Cybersecurity, Networking, Linux, Ethical Hacking",1,1,,Cybersecurity Analyst,1,99954,8,70
+"Python, Deep Learning, Machine Learning, SQL",2,2,Deep Learning Specialization,Data Scientist,1,42356,3,65
+"Pytorch, TensorFlow, NLP, Python",10,1,Google ML,AI Researcher,1,50188,3,100
+"Linux, Ethical Hacking, Networking",5,1,AWS Certified,Cybersecurity Analyst,1,45733,0,75
+"Deep Learning, Machine Learning",7,4,AWS Certified,Data Scientist,1,87562,9,100
+"NLP, Pytorch, TensorFlow, Python",0,3,Deep Learning Specialization,AI Researcher,1,70137,9,75
+"SQL, Machine Learning, Python, Deep Learning",6,1,Deep Learning Specialization,Data Scientist,1,53286,5,100
+"Networking, Cybersecurity, Ethical Hacking, Linux",4,4,Google ML,Cybersecurity Analyst,1,91996,8,100
+"SQL, Python, Machine Learning, Deep Learning",7,1,AWS Certified,Data Scientist,1,55431,2,100
+"Deep Learning, Python, SQL, Machine Learning",3,1,AWS Certified,Data Scientist,1,113134,5,85
+"Ethical Hacking, Linux, Networking, Cybersecurity",6,3,,Cybersecurity Analyst,1,90173,4,100
+"Cybersecurity, Networking",7,3,,Cybersecurity Analyst,1,109418,6,100
+"C++, SQL, Java",7,1,,Software Engineer,1,115535,5,100
+"Machine Learning, SQL, Python",3,4,Google ML,Data Scientist,1,119432,9,100
+"SQL, Machine Learning, Python",3,2,Google ML,Data Scientist,1,77352,3,70
+"SQL, Deep Learning, Python",9,1,Google ML,Data Scientist,1,96487,0,100
+"Python, NLP, Pytorch, TensorFlow",5,1,Deep Learning Specialization,AI Researcher,1,48234,9,100
+"TensorFlow, NLP",6,5,AWS Certified,AI Researcher,1,64951,8,100
+"Cybersecurity, Linux, Ethical Hacking",2,5,,Cybersecurity Analyst,1,51721,10,85
+"SQL, Machine Learning, Deep Learning",8,4,,Data Scientist,1,61880,8,100
+"Ethical Hacking, Linux, Networking, Cybersecurity",6,3,,Cybersecurity Analyst,1,56426,1,85
+"Deep Learning, Python, Machine Learning, SQL",6,1,AWS Certified,Data Scientist,1,50340,0,90
+"Pytorch, TensorFlow",0,4,AWS Certified,AI Researcher,1,99429,9,65
+"Python, Machine Learning, SQL",9,5,Google ML,Data Scientist,1,104274,10,100
+"C++, React, SQL",0,3,,Software Engineer,0,45815,7,50
+"C++, SQL",8,1,Google ML,Software Engineer,1,112514,8,100
+"NLP, Python, Pytorch, TensorFlow",3,3,AWS Certified,AI Researcher,1,68738,6,90
+"C++, Java, SQL",6,3,AWS Certified,Software Engineer,1,40595,1,90
+"TensorFlow, Pytorch, NLP, Python",1,2,AWS Certified,AI Researcher,0,86353,2,50
+"Cybersecurity, Linux, Ethical Hacking, Networking",7,2,AWS Certified,Cybersecurity Analyst,1,95709,8,100
+"Python, NLP",3,1,,AI Researcher,1,95270,7,75
+"React, C++, SQL, Java",7,4,Google ML,Software Engineer,1,67871,10,100
+"SQL, Deep Learning, Machine Learning",9,1,Google ML,Data Scientist,1,89128,0,100
+"TensorFlow, NLP, Python",9,3,Google ML,AI Researcher,1,57419,7,100
+"Python, SQL, Machine Learning",3,2,AWS Certified,Data Scientist,1,71142,4,75
+"NLP, Python",10,5,Google ML,AI Researcher,1,100218,10,100
+"SQL, C++, Java",6,3,,Software Engineer,1,49261,1,80
+"Pytorch, NLP, Python, TensorFlow",1,4,Google ML,AI Researcher,1,94795,7,75
+"SQL, Deep Learning",0,5,Deep Learning Specialization,Data Scientist,0,118976,8,60
+"React, SQL, Java",10,1,Deep Learning Specialization,Software Engineer,1,57933,3,100
+"SQL, Deep Learning, Machine Learning",1,3,,Data Scientist,1,44099,8,65
+"Pytorch, TensorFlow, NLP",2,4,Google ML,AI Researcher,1,76264,4,65
+"Python, NLP",5,1,Google ML,AI Researcher,1,54525,8,100
+"Networking, Cybersecurity, Ethical Hacking, Linux",9,3,AWS Certified,Cybersecurity Analyst,1,45660,9,100
+"React, C++, Java, SQL",5,4,Google ML,Software Engineer,1,106646,4,100
+"Networking, Ethical Hacking, Linux, Cybersecurity",3,5,Google ML,Cybersecurity Analyst,1,115708,9,100
+"React, SQL",10,5,Deep Learning Specialization,Software Engineer,1,50166,10,100
+"Cybersecurity, Ethical Hacking, Linux, Networking",1,3,Deep Learning Specialization,Cybersecurity Analyst,0,60494,0,40
+"React, Java",4,5,Google ML,Software Engineer,1,51742,6,90
+"Cybersecurity, Linux, Ethical Hacking",0,1,,Cybersecurity Analyst,0,114364,9,60
+"Deep Learning, Machine Learning",0,3,Deep Learning Specialization,Data Scientist,0,103294,5,45
+"TensorFlow, NLP",0,2,Google ML,AI Researcher,1,113855,9,65
+"Linux, Networking, Cybersecurity, Ethical Hacking",8,5,AWS Certified,Cybersecurity Analyst,1,83146,10,100
+"SQL, Machine Learning, Python, Deep Learning",7,4,Deep Learning Specialization,Data Scientist,1,119474,3,100
